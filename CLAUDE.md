@@ -130,6 +130,19 @@ python scripts/build_figures.py --run <run_id>
 
 (Adjust paths to whatever the repo actually has — these are the intended entrypoints.)
 
+## Closed-loop norms
+
+Every workflow produces a readable artifact before it's considered done. Nothing lives only in someone's head.
+
+| Workflow | Artifact | Location |
+|---|---|---|
+| Paper read | Note with link, abstract, takeaways | `Papers/<subfolder>/` |
+| Pipeline run | Manifest with target, seed, model hash, results summary | `Pipeline/<run_id>.md` |
+| Paper decision | Entry in decision log (what, why, who) | `Paper/decisions.md` |
+| Meeting / sync | Short notes with action items | `Company/meetings/<date>.md` |
+
+**Claude should prompt for the artifact if a task completes without one.** For example: if a pipeline run finishes, ask "want me to write the manifest?" before closing out.
+
 ## What Claude should do by default
 
 - **Default to small, focused changes.** This is a research codebase being built by two part-time founders. Big rewrites cost time we don't have.
