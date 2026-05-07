@@ -12,11 +12,11 @@
 
 ## Category 1 — Nicotinic Acetylcholine Receptors (nAChR)
 
-| # | Target | Species | Structure | Selectivity | Why it's a good binder target |
-|---|--------|---------|-----------|-------------|-------------------------------|
-| 1 | nAChR α6 (Pxα6) | *P. xylostella* | AF | ~ | Spinosad target; resistance mutations cluster at extracellular agonist-binding interface — ideal site for competing peptide |
-| 2 | nAChR α6 (Sfα6) | *S. frugiperda* | AF | ~ | CRISPR knockout confers >300× spinosad resistance; extracellular ECD is accessible |
-| 3 | nAChR β1 (BTβ1) | *B. tabaci* | AF | ~ | Dual A58T+R79E mutations cause cross-resistance to all neonicotinoids; orthosteric site accessible |
+| #   | Target          | Species         | Structure | Selectivity | Why it's a good binder target                                                                                               |
+| --- | --------------- | --------------- | --------- | ----------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 1   | nAChR α6 (Pxα6) | *P. xylostella* | AF        | ~           | Spinosad target; resistance mutations cluster at extracellular agonist-binding interface — ideal site for competing peptide |
+| 2   | nAChR α6 (Sfα6) | *S. frugiperda* | AF        | ~           | CRISPR knockout confers >300× spinosad resistance; extracellular ECD is accessible                                          |
+| 3   | nAChR β1 (BTβ1) | *B. tabaci*     | AF        | ~           | Dual A58T+R79E mutations cause cross-resistance to all neonicotinoids; orthosteric site accessible                          |
 
 **Notes for design:** No insect nAChR crystal structure for these specific subunits. Use mammalian nAChR ECD structures (PDB: 2QC1, 7QLH) as homology templates. Target the extracellular agonist-binding domain (AChBP-like interface between α and β subunits). Resistance mutations are a useful guide to the binding site geometry.
 
@@ -140,28 +140,28 @@
 
 ## Summary Table
 
-| # | Target | Gene | Species | Structure | Category |
-|---|--------|------|---------|-----------|----------|
-| 1 | nAChR α6 | Pxα6 | *P. xylostella* | AF | nAChR |
-| 2 | nAChR α6 | Sfα6 | *S. frugiperda* | AF | nAChR |
-| 3 | nAChR β1 | BTβ1 | *B. tabaci* | AF | nAChR |
-| 4 | Ryanodine receptor | PxRyR | *P. xylostella* | **PDB: 5Y9V** | RyR |
-| 5 | Ryanodine receptor | SfRyR | *S. frugiperda* | Cryo-EM 2024 | RyR |
-| 6 | Voltage-gated Na channel | PxNav | *P. xylostella* | AF | Nav |
-| 7 | Voltage-gated Na channel | SfNav | *S. frugiperda* | AF | Nav |
-| 8 | GABA-Cl channel | PxRdl1/2 | *P. xylostella* | AF | Rdl |
-| 9 | GABA-Cl channel | SfRdl1 | *S. frugiperda* | AF | Rdl |
-| 10 | Acetylcholinesterase 1 | PxAChE1 | *P. xylostella* | AF + homology | AChE |
-| 11 | Acetylcholinesterase 1 | BtAChE1 | *B. tabaci* | AF + homology | AChE |
-| 12 | Octopamine receptor β1 | PxOA2B1 | *P. xylostella* | AF | OAR |
-| 13 | Octopamine/NP GPCRs | BtGPCRs | *B. tabaci* | AF | OAR |
-| 14 | JH receptor (Met) | SfMet | *S. frugiperda* | AF + Dm crystal | Met |
-| 15 | Ecdysone receptor | PxEcR/PxUSP | *P. xylostella* | AF + 1R0O | EcR |
-| 16 | Chitin synthase 1 | PxCHS1 | *P. xylostella* | AF | CHS |
-| 17 | Chitin synthase 2 | BtCHS2 | *B. tabaci* | AF | CHS |
-| 18 | V-ATPase subunit E | PxvATPaseE | *P. xylostella* | AF + 7SIF | V-ATPase |
-| 19 | sNPF receptor | SfsNPFR | *S. frugiperda* | AF | NP-GPCR |
-| 20 | Insulin receptor | SfInR | *S. frugiperda* | AF + 2DTG | InR |
+| #   | Target                   | Gene        | Species         | Structure       | Category |
+| --- | ------------------------ | ----------- | --------------- | --------------- | -------- |
+| 1   | nAChR α6                 | Pxα6        | *P. xylostella* | AF              | nAChR    |
+| 2   | nAChR α6                 | Sfα6        | *S. frugiperda* | AF              | nAChR    |
+| 3   | nAChR β1                 | BTβ1        | *B. tabaci*     | AF              | nAChR    |
+| 4   | Ryanodine receptor       | PxRyR       | *P. xylostella* | **PDB: 5Y9V**   | RyR      |
+| 5   | Ryanodine receptor       | SfRyR       | *S. frugiperda* | Cryo-EM 2024    | RyR      |
+| 6   | Voltage-gated Na channel | PxNav       | *P. xylostella* | AF              | Nav      |
+| 7   | Voltage-gated Na channel | SfNav       | *S. frugiperda* | AF              | Nav      |
+| 8   | GABA-Cl channel          | PxRdl1/2    | *P. xylostella* | AF              | Rdl      |
+| 9   | GABA-Cl channel          | SfRdl1      | *S. frugiperda* | AF              | Rdl      |
+| 10  | Acetylcholinesterase 1   | PxAChE1     | *P. xylostella* | AF + homology   | AChE     |
+| 11  | Acetylcholinesterase 1   | BtAChE1     | *B. tabaci*     | AF + homology   | AChE     |
+| 12  | Octopamine receptor β1   | PxOA2B1     | *P. xylostella* | AF              | OAR      |
+| 13  | Octopamine/NP GPCRs      | BtGPCRs     | *B. tabaci*     | AF              | OAR      |
+| 14  | JH receptor (Met)        | SfMet       | *S. frugiperda* | AF + Dm crystal | Met      |
+| 15  | Ecdysone receptor        | PxEcR/PxUSP | *P. xylostella* | AF + 1R0O       | EcR      |
+| 16  | Chitin synthase 1        | PxCHS1      | *P. xylostella* | AF              | CHS      |
+| 17  | Chitin synthase 2        | BtCHS2      | *B. tabaci*     | AF              | CHS      |
+| 18  | V-ATPase subunit E       | PxvATPaseE  | *P. xylostella* | AF + 7SIF       | V-ATPase |
+| 19  | sNPF receptor            | SfsNPFR     | *S. frugiperda* | AF              | NP-GPCR  |
+| 20  | Insulin receptor         | SfInR       | *S. frugiperda* | AF + 2DTG       | InR      |
 
 ---
 
