@@ -82,6 +82,9 @@ Targets are picked specifically for the existence of published mutagenesis or bi
 - Black for formatting, ruff for linting
 - Prefer pure functions; isolate I/O at boundaries
 
+**Markdown / Obsidian formatting**
+- Always use `$$` delimiters for math (both inline and block) — this is required for Obsidian rendering
+
 **Modal-specific**
 - All GPU work goes through Modal apps in `src/<module>/modal_app.py`
 - Pin model versions in Modal images — do not let Boltz-2 / BoltzGen versions drift between runs

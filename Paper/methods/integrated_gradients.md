@@ -6,16 +6,14 @@ Integrated gradients (IG) is an attribution method that assigns each input featu
 
 Formally, for input `x` and baseline `x'`:
 
-```
-IG(x_i) = (x_i - x'_i) × ∫[α=0→1] ∂F(x' + α(x - x')) / ∂x_i  dα
+
+$$ IG(x_i) = (x_i - x'_i) × ∫[α=0→1] ∂F(x' + α(x - x')) / ∂x_i  dα $$
 ```
 
 In practice, the integral is approximated by summing gradients at M evenly-spaced steps along the interpolation path (M = 50–100 steps is standard):
 
 ```
-IG(x_i) ≈ (x_i - x'_i) × (1/M) × Σ_k ∂F(x' + (k/M)(x - x')) / ∂x_i
-```
-
+$$ IG(x_i) ≈ (x_i - x'_i) × (1/M) × Σ_k ∂F(x' + (k/M)(x - x')) / ∂x_i $$
 Each `x_i` is the embedding vector for token `i`. Taking the L2 norm across the embedding dimension gives a single scalar per residue — the affinity heatmap value.
 
 ## Why this over alternatives
