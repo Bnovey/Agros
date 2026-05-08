@@ -1,20 +1,12 @@
-<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="createGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4F46E5;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#7C3AED;stop-opacity:1" />
+    <linearGradient id="primaryGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#374151;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4B5563;stop-opacity:1" />
     </linearGradient>
-    <linearGradient id="scoreGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0D9488;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="igGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#DC2626;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#EA580C;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="lockGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#7C2D12;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#A16207;stop-opacity:1" />
+    <linearGradient id="secondaryGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6B7280;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#9CA3AF;stop-opacity:1" />
     </linearGradient>
     <filter id="shadow">
       <feDropShadow dx="0" dy="4" stdDeviation="3" flood-opacity="0.3"/>
@@ -22,7 +14,7 @@
   </defs>
 
   <!-- Background -->
-  <rect width="800" height="600" fill="#F8FAFC"/>
+  <rect width="800" height="500" fill="#FFFFFF"/>
 
   <!-- Title -->
   <text x="400" y="40" text-anchor="middle" fill="#1E293B" font-family="Inter, sans-serif" font-size="24" font-weight="700">
@@ -30,118 +22,192 @@
   </text>
 
   <!-- Step 1: Create -->
-  <g transform="translate(50, 100)">
-    <rect width="140" height="80" rx="12" fill="url(#createGrad)" filter="url(#shadow)"/>
-    <text x="70" y="30" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="14" font-weight="600">
-      🧬 CREATE
+  <g transform="translate(30, 80)">
+    <rect width="180" height="120" rx="12" fill="url(#primaryGrad)" filter="url(#shadow)"/>
+    <text x="90" y="25" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="16" font-weight="700">
+      GENERATION
     </text>
-    <text x="70" y="50" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="12">
-      BoltzGen
+    <text x="90" y="45" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="12" font-weight="600">
+      BoltzGen Model
     </text>
-    <text x="70" y="65" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="12">
-      1000+ candidates
+    <text x="90" y="62" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="11">
+      • 1000+ peptide candidates
+    </text>
+    <text x="90" y="77" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="11">
+      • Target-specific design
+    </text>
+    <text x="90" y="92" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="11">
+      • Structure-based sampling
+    </text>
+    <text x="90" y="107" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="11">
+      • Diversity optimization
     </text>
   </g>
 
   <!-- Arrow 1 -->
-  <path d="M 220 140 L 280 140" stroke="#64748B" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 240 140 L 290 140" stroke="#4B5563" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
 
   <!-- Step 2: Score -->
-  <g transform="translate(310, 100)">
-    <rect width="140" height="80" rx="12" fill="url(#scoreGrad)" filter="url(#shadow)"/>
-    <text x="70" y="25" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="14" font-weight="600">
-      📊 SCORE
+  <g transform="translate(320, 80)">
+    <rect width="180" height="120" rx="12" fill="url(#secondaryGrad)" filter="url(#shadow)"/>
+    <text x="90" y="25" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="16" font-weight="700">
+      SCORING
     </text>
-    <text x="70" y="42" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="11">
-      Boltz-2 • Vina • GNINA
+    <text x="90" y="45" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="12" font-weight="600">
+      Multi-Model Evaluation
     </text>
-    <text x="70" y="58" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="11">
-      Top 10% → IG Analysis
+    <text x="90" y="62" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="11">
+      • Boltz-2: Binding affinity
+    </text>
+    <text x="90" y="77" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="11">
+      • AutoDock Vina: Physics
+    </text>
+    <text x="90" y="92" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="11">
+      • GNINA: Deep learning
+    </text>
+    <text x="90" y="107" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="11">
+      • Rank top 10% for analysis
     </text>
   </g>
 
   <!-- Arrow 2 -->
-  <path d="M 480 140 L 540 140" stroke="#64748B" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 530 140 L 580 140" stroke="#4B5563" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
 
   <!-- Step 3: IG Analysis -->
-  <g transform="translate(570, 100)">
-    <rect width="140" height="80" rx="12" fill="url(#igGrad)" filter="url(#shadow)"/>
-    <text x="70" y="25" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="14" font-weight="600">
-      🧠 ANALYZE
+  <g transform="translate(610, 80)">
+    <rect width="180" height="120" rx="12" fill="url(#primaryGrad)" filter="url(#shadow)"/>
+    <text x="90" y="25" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="16" font-weight="700">
+      ANALYSIS
     </text>
-    <text x="70" y="42" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="11">
-      Chai-2 • Boltz-2 • ESM-2
-    </text>
-    <text x="70" y="58" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="11">
+    <text x="90" y="45" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="12" font-weight="600">
       Integrated Gradients
+    </text>
+    <text x="90" y="62" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="11">
+      • Chai-2: Structural impact
+    </text>
+    <text x="90" y="77" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="11">
+      • Boltz-2: Binding contribution
+    </text>
+    <text x="90" y="92" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="11">
+      • ESM-2: Functional importance
+    </text>
+    <text x="90" y="107" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="11">
+      • Per-residue attribution
     </text>
   </g>
 
+  <!-- IG Scores Visualization -->
+  <g transform="translate(30, 250)">
+    <rect width="550" height="100" rx="8" fill="white" stroke="#E5E7EB" stroke-width="2" filter="url(#shadow)"/>
+
+    <!-- Title -->
+    <text x="275" y="20" text-anchor="middle" fill="#374151" font-family="Inter, sans-serif" font-size="14" font-weight="600">
+      Integrated Gradients Output
+    </text>
+
+    <!-- Position labels -->
+    <text x="50" y="40" fill="#6B7280" font-family="Inter, sans-serif" font-size="11" font-weight="500">Position:</text>
+    <text x="120" y="40" text-anchor="middle" fill="#6B7280" font-family="Inter, sans-serif" font-size="10">1</text>
+    <text x="160" y="40" text-anchor="middle" fill="#6B7280" font-family="Inter, sans-serif" font-size="10">2</text>
+    <text x="200" y="40" text-anchor="middle" fill="#6B7280" font-family="Inter, sans-serif" font-size="10">3</text>
+    <text x="240" y="40" text-anchor="middle" fill="#6B7280" font-family="Inter, sans-serif" font-size="10">4</text>
+    <text x="280" y="40" text-anchor="middle" fill="#6B7280" font-family="Inter, sans-serif" font-size="10">5</text>
+    <text x="320" y="40" text-anchor="middle" fill="#6B7280" font-family="Inter, sans-serif" font-size="10">6</text>
+    <text x="360" y="40" text-anchor="middle" fill="#6B7280" font-family="Inter, sans-serif" font-size="10">7</text>
+    <text x="400" y="40" text-anchor="middle" fill="#6B7280" font-family="Inter, sans-serif" font-size="10">8</text>
+    <text x="440" y="40" text-anchor="middle" fill="#6B7280" font-family="Inter, sans-serif" font-size="10">9</text>
+    <text x="480" y="40" text-anchor="middle" fill="#6B7280" font-family="Inter, sans-serif" font-size="10">10</text>
+
+    <!-- Chai-2 scores -->
+    <text x="50" y="55" fill="#6B7280" font-family="Inter, sans-serif" font-size="11" font-weight="500">Chai-2:</text>
+    <rect x="110" y="48" width="15" height="12" fill="#9CA3AF"/>
+    <rect x="150" y="48" width="20" height="12" fill="#6B7280"/>
+    <rect x="190" y="48" width="25" height="12" fill="#374151"/>
+    <rect x="230" y="48" width="10" height="12" fill="#D1D5DB"/>
+    <rect x="270" y="48" width="20" height="12" fill="#6B7280"/>
+    <rect x="310" y="48" width="15" height="12" fill="#9CA3AF"/>
+    <rect x="350" y="48" width="25" height="12" fill="#374151"/>
+    <rect x="390" y="48" width="10" height="12" fill="#D1D5DB"/>
+    <rect x="430" y="48" width="15" height="12" fill="#9CA3AF"/>
+    <rect x="470" y="48" width="20" height="12" fill="#6B7280"/>
+
+    <!-- Boltz-2 scores -->
+    <text x="50" y="70" fill="#6B7280" font-family="Inter, sans-serif" font-size="11" font-weight="500">Boltz-2:</text>
+    <rect x="110" y="63" width="20" height="12" fill="#6B7280"/>
+    <rect x="150" y="63" width="15" height="12" fill="#9CA3AF"/>
+    <rect x="190" y="63" width="25" height="12" fill="#374151"/>
+    <rect x="230" y="63" width="15" height="12" fill="#9CA3AF"/>
+    <rect x="270" y="63" width="25" height="12" fill="#374151"/>
+    <rect x="310" y="63" width="10" height="12" fill="#D1D5DB"/>
+    <rect x="350" y="63" width="20" height="12" fill="#6B7280"/>
+    <rect x="390" y="63" width="15" height="12" fill="#9CA3AF"/>
+    <rect x="430" y="63" width="25" height="12" fill="#374151"/>
+    <rect x="470" y="63" width="10" height="12" fill="#D1D5DB"/>
+
+    <!-- ESM-2 scores -->
+    <text x="50" y="85" fill="#6B7280" font-family="Inter, sans-serif" font-size="11" font-weight="500">ESM-2:</text>
+    <rect x="110" y="78" width="15" height="12" fill="#9CA3AF"/>
+    <rect x="150" y="78" width="25" height="12" fill="#374151"/>
+    <rect x="190" y="78" width="20" height="12" fill="#6B7280"/>
+    <rect x="230" y="78" width="10" height="12" fill="#D1D5DB"/>
+    <rect x="270" y="78" width="15" height="12" fill="#9CA3AF"/>
+    <rect x="310" y="78" width="20" height="12" fill="#6B7280"/>
+    <rect x="350" y="78" width="25" height="12" fill="#374151"/>
+    <rect x="390" y="78" width="15" height="12" fill="#9CA3AF"/>
+    <rect x="430" y="78" width="20" height="12" fill="#6B7280"/>
+    <rect x="470" y="78" width="25" height="12" fill="#374151"/>
+
+    <!-- Legend -->
+    <g transform="translate(500, 45)">
+      <rect x="0" y="0" width="12" height="8" fill="#374151"/>
+      <text x="15" y="7" fill="#6B7280" font-family="Inter, sans-serif" font-size="9">High</text>
+      <rect x="0" y="12" width="12" height="8" fill="#6B7280"/>
+      <text x="15" y="19" fill="#6B7280" font-family="Inter, sans-serif" font-size="9">Med</text>
+      <rect x="0" y="24" width="12" height="8" fill="#D1D5DB"/>
+      <text x="15" y="31" fill="#6B7280" font-family="Inter, sans-serif" font-size="9">Low</text>
+    </g>
+  </g>
+
   <!-- Arrow 3 (down) -->
-  <path d="M 640 210 L 640 270" stroke="#64748B" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 700 230 L 700 290" stroke="#4B5563" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 580 305 L 610 330" stroke="#4B5563" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
 
   <!-- Step 4: Lock & Iterate -->
-  <g transform="translate(570, 300)">
-    <rect width="140" height="80" rx="12" fill="url(#lockGrad)" filter="url(#shadow)"/>
-    <text x="70" y="25" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="14" font-weight="600">
-      🔒 LOCK
+  <g transform="translate(610, 320)">
+    <rect width="180" height="120" rx="12" fill="url(#secondaryGrad)" filter="url(#shadow)"/>
+    <text x="90" y="25" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="16" font-weight="700">
+      OPTIMIZATION
     </text>
-    <text x="70" y="42" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="11">
-      Critical positions
+    <text x="90" y="45" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="12" font-weight="600">
+      Constraint-Based Design
     </text>
-    <text x="70" y="58" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="11">
-      Generate next batch
+    <text x="90" y="62" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="11">
+      • Lock critical positions
+    </text>
+    <text x="90" y="77" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="11">
+      • Constrain important regions
+    </text>
+    <text x="90" y="92" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="11">
+      • Explore variable positions
+    </text>
+    <text x="90" y="107" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="11">
+      • Generate next iteration
     </text>
   </g>
 
   <!-- Arrow 4 (back to start) -->
-  <path d="M 570 340 Q 300 420 120 250 Q 120 200 120 180" stroke="#64748B" stroke-width="3" fill="none" marker-end="url(#arrowhead)" stroke-dasharray="8,4"/>
+  <path d="M 610 380 Q 350 470 120 280 Q 120 230 120 220" stroke="#4B5563" stroke-width="3" fill="none" marker-end="url(#arrowhead)" stroke-dasharray="8,4"/>
 
-  <!-- Results Box -->
-  <g transform="translate(50, 450)">
-    <rect width="700" height="120" rx="16" fill="white" stroke="#E2E8F0" stroke-width="2" filter="url(#shadow)"/>
-    <text x="350" y="30" text-anchor="middle" fill="#1E293B" font-family="Inter, sans-serif" font-size="16" font-weight="600">
-      Iterative Improvement
-    </text>
+  <!-- Iteration label -->
+  <text x="350" y="450" text-anchor="middle" fill="#6B7280" font-family="Inter, sans-serif" font-size="14" font-weight="600">
+    Iterative Refinement
+  </text>
 
-    <!-- Progress visualization -->
-    <g transform="translate(50, 50)">
-      <!-- Progress bar background -->
-      <rect x="0" y="20" width="500" height="12" rx="6" fill="#F1F5F9" stroke="#E2E8F0"/>
-
-      <!-- Progress segments -->
-      <rect x="0" y="20" width="100" height="12" rx="6" fill="#94A3B8"/>
-      <rect x="120" y="20" width="100" height="12" rx="6" fill="#3B82F6"/>
-      <rect x="240" y="20" width="100" height="12" rx="6" fill="#22C55E"/>
-      <rect x="360" y="20" width="100" height="12" rx="6" fill="#F59E0B"/>
-
-      <!-- Labels -->
-      <text x="50" y="50" text-anchor="middle" fill="#64748B" font-family="Inter, sans-serif" font-size="12">Initial</text>
-      <text x="170" y="50" text-anchor="middle" fill="#3B82F6" font-family="Inter, sans-serif" font-size="12">Better</text>
-      <text x="290" y="50" text-anchor="middle" fill="#22C55E" font-family="Inter, sans-serif" font-size="12">Stronger</text>
-      <text x="410" y="50" text-anchor="middle" fill="#F59E0B" font-family="Inter, sans-serif" font-size="12">Optimized</text>
-    </g>
-
-    <!-- Key insight -->
-    <text x="580" y="65" text-anchor="middle" fill="#059669" font-family="Inter, sans-serif" font-size="16" font-weight="700">
-      📈 Consistent
-    </text>
-    <text x="580" y="82" text-anchor="middle" fill="#065F46" font-family="Inter, sans-serif" font-size="12">
-      Improvement
-    </text>
-  </g>
-
-  <!-- Iteration indicator -->
-  <g transform="translate(300, 250)">
-    <circle cx="0" cy="0" r="25" fill="#F59E0B" filter="url(#shadow)"/>
-    <text x="0" y="-2" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="10" font-weight="600">CYCLE</text>
-    <text x="0" y="12" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="10" font-weight="600">LOOP</text>
-  </g>
 
   <!-- Arrow marker definition -->
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#64748B"/>
+      <polygon points="0 0, 10 3.5, 0 7" fill="#4B5563"/>
     </marker>
   </defs>
 </svg>
