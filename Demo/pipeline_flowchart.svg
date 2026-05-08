@@ -1,4 +1,4 @@
-<svg width="1000" height="1000" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="1000" viewBox="0 0 1200 1000" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="primaryGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#475569;stop-opacity:1" />
@@ -18,7 +18,7 @@
   </defs>
 
   <!-- Background -->
-  <rect width="1000" height="1000" fill="#FFFFFF"/>
+  <rect width="1200" height="1000" fill="#FFFFFF"/>
 
   <!-- Title -->
   <text x="500" y="40" text-anchor="middle" fill="#374151" font-family="Inter, sans-serif" font-size="24" font-weight="700">
