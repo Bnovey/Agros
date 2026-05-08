@@ -93,7 +93,7 @@
       • Boltz-2: Binding contribution
     </text>
     <text x="90" y="92" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="11">
-      • ESM-2: Functional importance
+      • ESM-2 + affinity head: Functional importance
     </text>
     <text x="90" y="107" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="11">
       • Per-residue attribution
