@@ -1,12 +1,12 @@
 <svg width="600" height="1100" viewBox="0 0 600 1100" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="primaryGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#52796F;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#6B8A7A;stop-opacity:1" />
+      <stop offset="0%" style="stop-color:#475569;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#64748B;stop-opacity:1" />
     </linearGradient>
     <linearGradient id="secondaryGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#84A98C;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#A3B8AA;stop-opacity:1" />
+      <stop offset="0%" style="stop-color:#64748B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#94A3B8;stop-opacity:1" />
     </linearGradient>
     <linearGradient id="heatmapBg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#FFFFFF;stop-opacity:1" />
@@ -49,7 +49,7 @@
   </g>
 
   <!-- Arrow 1 (down) -->
-  <path d="M 300 220 L 300 270" stroke="#6B8A7A" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 300 220 L 300 270" stroke="#475569" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
 
   <!-- Step 2: Scoring -->
   <g transform="translate(210, 290)">
@@ -75,7 +75,7 @@
   </g>
 
   <!-- Arrow 2 (down) -->
-  <path d="M 300 430 L 300 480" stroke="#6B8A7A" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 300 430 L 300 480" stroke="#475569" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
 
   <!-- Step 3: Analysis -->
   <g transform="translate(210, 500)">
@@ -101,11 +101,11 @@
   </g>
 
   <!-- Arrow 3 (down) -->
-  <path d="M 300 640 L 300 680" stroke="#6B8A7A" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 300 640 L 300 680" stroke="#475569" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
 
   <!-- IG Heatmap Visualization -->
   <g transform="translate(50, 700)">
-    <rect width="500" height="140" rx="4" fill="url(#heatmapBg)" stroke="#374151" stroke-width="2" filter="url(#shadow)"/>
+    <rect width="500" height="180" rx="4" fill="url(#heatmapBg)" stroke="#374151" stroke-width="2" filter="url(#shadow)"/>
 
     <!-- Title -->
     <text x="250" y="20" text-anchor="middle" fill="#1E40AF" font-family="Inter, sans-serif" font-size="14" font-weight="700">
@@ -192,7 +192,7 @@
   </g>
 
   <!-- Arrow 4 (down) -->
-  <path d="M 300 840 L 300 880" stroke="#6B8A7A" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M 300 840 L 300 880" stroke="#475569" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
 
   <!-- Step 4: Optimization -->
   <g transform="translate(210, 900)">
@@ -218,17 +218,17 @@
   </g>
 
   <!-- Return arrow (back to start) -->
-  <path d="M 210 1020 Q 20 1020 20 140 Q 20 90 180 90" stroke="#6B8A7A" stroke-width="3" fill="none" marker-end="url(#arrowhead)" stroke-dasharray="8,4"/>
+  <path d="M 210 1020 Q 20 1020 20 140 Q 20 90 180 90" stroke="#475569" stroke-width="3" fill="none" marker-end="url(#arrowhead)" stroke-dasharray="8,4"/>
 
   <!-- Iteration label -->
-  <text x="15" y="600" text-anchor="middle" fill="#6B8A7A" font-family="Inter, sans-serif" font-size="12" font-weight="600" transform="rotate(-90 15 600)">
+  <text x="15" y="600" text-anchor="middle" fill="#475569" font-family="Inter, sans-serif" font-size="12" font-weight="600" transform="rotate(-90 15 600)">
     Iterative Refinement
   </text>
 
   <!-- Arrow marker definition -->
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" fill="#6B8A7A"/>
+      <polygon points="0 0, 10 3.5, 0 7" fill="#475569"/>
     </marker>
   </defs>
 </svg>
