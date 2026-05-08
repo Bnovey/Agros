@@ -96,6 +96,13 @@ Targets are picked specifically for the existence of published mutagenesis or bi
 - Save attention tensors per layer per head — they're large; use float16 + compression
 - Always log tensor shapes and the input residue indexing alongside saved attention; off-by-one bugs here invalidate the paper
 
+**Model scoring and IG analysis**
+- **NEVER use synthetic/fake scores.** All model outputs must come from actual model inference
+- All IG profiles must extract gradients from real model forward passes, not approximations
+- ESM-2, Boltz-2, and Chai-1 scores should represent binding affinity predictions, not embeddings or confidence scores
+- If a model fails to run, fix the model integration — do not fill with random/synthetic data
+- Log model extraction method and verify gradient targets point to binding affinity outputs
+
 **Reproducibility**
 - Seed everything (numpy, torch, python random) at the top of every script
 - Pin all model checkpoints by hash, not just by name
