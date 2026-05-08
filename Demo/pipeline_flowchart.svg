@@ -227,16 +227,16 @@
       Constraint-Based Design
     </text>
     <text x="90" y="62" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="11">
-      • Lock critical positions
+      • Sample constraint combinations
     </text>
     <text x="90" y="77" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="11">
-      • Constrain important regions
+      • Lock high-attribution subsets
     </text>
     <text x="90" y="92" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="11">
-      • Explore variable positions
+      • Capture epistatic interactions
     </text>
     <text x="90" y="107" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="11">
-      • Generate next iteration
+      • Avoid over-constraining
     </text>
   </g>
 
