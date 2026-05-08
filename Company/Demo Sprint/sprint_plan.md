@@ -48,18 +48,18 @@ Every module returns a `(L,) float array`. The visualizer stacks them as tracks 
 
 ### What each track tells you
 
-| Track | Model | Biological meaning |
-|---|---|---|
-| Boltz-2 IG | Boltz-2 | Which residues drive predicted affinity |
-| Chai-1 IG | Chai-1 | Independent structure+chemistry affinity signal |
-| ESM-2 IG | ESM-2 | Pure sequence affinity signal |
-| Cross-model agreement | Derived | Residues all three models agree on — highest confidence |
-| Proteolytic cleavage risk | Rule-based | Will this position get digested before reaching target |
-| Amphipathicity | Rule-based | Membrane interaction — relevant for gut wall crossing |
-| Aggregation propensity | Rule-based | Formulation risk — will peptide clump in solution |
-| Solubility contribution | Rule-based | Per-residue aqueous solubility contribution |
-| Selectivity risk | Manual lookup | Is this position conserved with mammalian RyR — binding here = toxicity risk |
-| Hydrophobicity + charge | Lookup table | Baseline physicochemistry |
+| Track                     | Model         | Biological meaning                                                           |
+| ------------------------- | ------------- | ---------------------------------------------------------------------------- |
+| Boltz-2 IG                | Boltz-2       | Which residues drive predicted affinity                                      |
+| Chai-1 IG                 | Chai-1        | Independent structure+chemistry affinity signal                              |
+| ESM-2 IG                  | ESM-2         | Pure sequence affinity signal                                                |
+| Cross-model agreement     | Derived       | Residues all three models agree on — highest confidence                      |
+| Proteolytic cleavage risk | Rule-based    | Will this position get digested before reaching target                       |
+| Amphipathicity            | Rule-based    | Membrane interaction — relevant for gut wall crossing                        |
+| Aggregation propensity    | Rule-based    | Formulation risk — will peptide clump in solution                            |
+| Solubility contribution   | Rule-based    | Per-residue aqueous solubility contribution                                  |
+| Selectivity risk          | Manual lookup | Is this position conserved with mammalian RyR — binding here = toxicity risk |
+| Hydrophobicity + charge   | Lookup table  | Baseline physicochemistry                                                    |
 
 ### File structure
 
