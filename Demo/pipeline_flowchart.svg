@@ -8,6 +8,10 @@
       <stop offset="0%" style="stop-color:#6B7280;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#9CA3AF;stop-opacity:1" />
     </linearGradient>
+    <linearGradient id="heatmapBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFFFFF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F8FAFC;stop-opacity:1" />
+    </linearGradient>
     <filter id="shadow">
       <feDropShadow dx="0" dy="4" stdDeviation="3" flood-opacity="0.3"/>
     </filter>
@@ -101,10 +105,10 @@
 
   <!-- IG Heatmap Visualization -->
   <g transform="translate(50, 700)">
-    <rect width="500" height="140" rx="8" fill="white" stroke="#374151" stroke-width="3" filter="url(#shadow)"/>
+    <rect width="500" height="140" rx="4" fill="url(#heatmapBg)" stroke="#2563EB" stroke-width="3" filter="url(#shadow)"/>
 
     <!-- Title -->
-    <text x="250" y="20" text-anchor="middle" fill="#374151" font-family="Inter, sans-serif" font-size="14" font-weight="600">
+    <text x="250" y="20" text-anchor="middle" fill="#1E40AF" font-family="Inter, sans-serif" font-size="14" font-weight="700">
       Integrated Gradients Heatmap
     </text>
 
@@ -122,21 +126,21 @@
     <text x="335" y="40" text-anchor="middle" fill="#6B7280" font-family="Inter, sans-serif" font-size="10">10</text>
 
     <!-- Consensus highlights for positions 3 and 7 -->
-    <rect x="110" y="47" width="30" height="50" fill="none" stroke="#EF4444" stroke-width="4" stroke-dasharray="6,3" rx="4"/>
-    <rect x="230" y="47" width="30" height="50" fill="none" stroke="#EF4444" stroke-width="4" stroke-dasharray="6,3" rx="4"/>
+    <rect x="110" y="47" width="30" height="50" fill="none" stroke="#DC2626" stroke-width="4" stroke-dasharray="6,3" rx="2"/>
+    <rect x="230" y="47" width="30" height="50" fill="none" stroke="#DC2626" stroke-width="4" stroke-dasharray="6,3" rx="2"/>
 
     <!-- Consensus background highlights -->
-    <rect x="110" y="47" width="30" height="50" fill="#FEF2F2" fill-opacity="0.3" rx="4"/>
-    <rect x="230" y="47" width="30" height="50" fill="#FEF2F2" fill-opacity="0.3" rx="4"/>
+    <rect x="110" y="47" width="30" height="50" fill="#FEE2E2" fill-opacity="0.4" rx="2"/>
+    <rect x="230" y="47" width="30" height="50" fill="#FEE2E2" fill-opacity="0.4" rx="2"/>
 
     <!-- Consensus labels with background -->
-    <rect x="105" y="107" width="40" height="16" fill="#EF4444" rx="8"/>
+    <rect x="105" y="107" width="40" height="16" fill="#DC2626" rx="3"/>
     <text x="125" y="118" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="10" font-weight="700">LOCK</text>
-    <rect x="225" y="107" width="40" height="16" fill="#EF4444" rx="8"/>
+    <rect x="225" y="107" width="40" height="16" fill="#DC2626" rx="3"/>
     <text x="245" y="118" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-size="10" font-weight="700">LOCK</text>
 
     <!-- Chai-2 heatmap row -->
-    <text x="10" y="58" fill="#6B7280" font-family="Inter, sans-serif" font-size="10" font-weight="500">Chai-2</text>
+    <text x="10" y="58" fill="#7C3AED" font-family="Inter, sans-serif" font-size="10" font-weight="600">Chai-2</text>
     <rect x="55" y="50" width="20" height="12" fill="#BBF7D0" stroke="#374151"/>
     <rect x="85" y="50" width="20" height="12" fill="#86EFAC" stroke="#374151"/>
     <rect x="115" y="50" width="20" height="12" fill="#15803D" stroke="#374151"/>
@@ -149,7 +153,7 @@
     <rect x="325" y="50" width="20" height="12" fill="#4ADE80" stroke="#374151"/>
 
     <!-- Boltz-2 heatmap row -->
-    <text x="10" y="73" fill="#6B7280" font-family="Inter, sans-serif" font-size="10" font-weight="500">Boltz-2</text>
+    <text x="10" y="73" fill="#2563EB" font-family="Inter, sans-serif" font-size="10" font-weight="600">Boltz-2</text>
     <rect x="55" y="65" width="20" height="12" fill="#4ADE80" stroke="#374151"/>
     <rect x="85" y="65" width="20" height="12" fill="#F0FDF4" stroke="#374151"/>
     <rect x="115" y="65" width="20" height="12" fill="#15803D" stroke="#374151"/>
@@ -162,7 +166,7 @@
     <rect x="325" y="65" width="20" height="12" fill="#86EFAC" stroke="#374151"/>
 
     <!-- ESM-2 heatmap row -->
-    <text x="10" y="88" fill="#6B7280" font-family="Inter, sans-serif" font-size="10" font-weight="500">ESM-2</text>
+    <text x="10" y="88" fill="#EA580C" font-family="Inter, sans-serif" font-size="10" font-weight="600">ESM-2</text>
     <rect x="55" y="80" width="20" height="12" fill="#86EFAC" stroke="#374151"/>
     <rect x="85" y="80" width="20" height="12" fill="#BBF7D0" stroke="#374151"/>
     <rect x="115" y="80" width="20" height="12" fill="#15803D" stroke="#374151"/>
