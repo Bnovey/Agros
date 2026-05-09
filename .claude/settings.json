@@ -7,7 +7,11 @@
       "WebFetch(domain:www.nature.com)",
       "Bash(curl -sL \"https://www.mdpi.com/2075-4450/15/1/144\")",
       "Bash(curl -sL \"https://www.mdpi.com/2075-4450/17/1/2\")",
-      "Bash(curl -sL \"https://www.mdpi.com/2075-4450/17/4/439\")"
+      "Bash(curl -sL \"https://www.mdpi.com/2075-4450/17/4/439\")",
+      "Bash(mv \"insects-13-00701-v4.pdf\" \"Pan_2022_SlInsR_juvenile_hormone_fecundity.pdf\")",
+      "Bash(mv \"insects-13-00735.pdf\" \"Zhu_2022_PxOctbeta3_octopamine_receptor.pdf\")",
+      "Bash(mv \"journal.pgen.1011163.pdf\" \"Yin_2024_BtnAChRbeta1_neonicotinoid_resistance.pdf\")",
+      "Bash(mv \"s41467-024-53490-0.pdf\" \"Lin_2024_InsectRyR_diamide_cryo-EM.pdf\")"
     ]
   }
 }
