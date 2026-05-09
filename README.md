@@ -28,6 +28,21 @@ Ask:
 Ask:
 > Lint the wiki for contradictions, stale claims, missing provenance, duplicate pages, orphan pages, and missing concept pages. Save the report in `wiki/reports/`.
 
+## File naming convention
+
+All files in `raw/papers/` follow this pattern:
+
+```
+LastName_Year_SpeciesTarget_topic.ext
+```
+
+- **LastName** — first author's last name, title-case
+- **Year** — 4-digit publication year
+- **SpeciesTarget** — species prefix + gene/protein ID (e.g. `PxnAChRa6`, `SfRdl`, `BtCHS2`)
+  - `Px` = *Plutella xylostella*, `Sf` = *Spodoptera frugiperda*, `Bt` = *Bemisia tabaci*, `Sl` = *Spodoptera litura*
+- **topic** — 1–3 word description
+- `.md` for notes, `.pdf` for original papers — same stem when both exist
+
 ## Rule
 
 Raw sources are never edited. The generated wiki is allowed to evolve.

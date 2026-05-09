@@ -52,6 +52,31 @@ Check for:
 
 Write lint reports in `wiki/reports/`.
 
+## File naming convention
+
+All files in `raw/papers/` must follow this pattern:
+
+```
+LastName_Year_SpeciesTarget_topic.ext
+```
+
+- **LastName** — first author's last name, title-case (e.g. `Wang`, `Li`)
+- **Year** — 4-digit publication year
+- **SpeciesTarget** — species abbreviation + target gene/protein ID, no spaces (e.g. `PxnAChRa6`, `SfRdl`, `BtCHS2`)
+  - Species prefixes: `Px` = *Plutella xylostella*, `Sf` = *Spodoptera frugiperda*, `Bt` = *Bemisia tabaci*, `Sl` = *Spodoptera litura*
+- **topic** — 1–3 word snake_case description (e.g. `spinosad_resistance`, `crystal_structure`)
+- **ext** — `.md` for notes, `.pdf` for the original paper
+
+Examples:
+- `Wang_2022_SfnAChRa6_CRISPR_resistance.md`
+- `Lin_2024_InsectRyR_diamide_cryo-EM.pdf`
+
+When a PDF and its `.md` note exist for the same paper, they share the same stem:
+- `Zhao_2018_PxRyR_crystal_structure.pdf`
+- `Zhao_2018_PxRyR_crystal_structure.md`
+
+If the target ID is ambiguous or the paper covers multiple targets, use the most specific identifier for the primary target discussed.
+
 ## Style rules
 
 - Use concise markdown.

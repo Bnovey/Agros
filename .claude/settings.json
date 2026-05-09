@@ -1,7 +1,13 @@
 {
   "permissions": {
     "allow": [
-      "WebSearch"
+      "WebSearch",
+      "WebFetch(domain:www.mdpi.com)",
+      "WebFetch(domain:journals.plos.org)",
+      "WebFetch(domain:www.nature.com)",
+      "Bash(curl -sL \"https://www.mdpi.com/2075-4450/15/1/144\")",
+      "Bash(curl -sL \"https://www.mdpi.com/2075-4450/17/1/2\")",
+      "Bash(curl -sL \"https://www.mdpi.com/2075-4450/17/4/439\")"
     ]
   }
 }
