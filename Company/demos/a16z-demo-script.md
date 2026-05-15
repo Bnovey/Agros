@@ -1,0 +1,2 @@
+
+Thanks Fredi! Here is a look into how we are designing novel molecules for crop protection. What you are seeing is per amino acid resolution of 3 different computationally designed molecules +  a validation. 
