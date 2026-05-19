@@ -41,7 +41,35 @@ The repo currently contains two parallel workstreams:
 - GitHub for version control
 - Docker / Modal image specs for reproducibility
 
-## Repository layout (target structure)
+## Vault layout (Obsidian)
+
+```
+.
+├── Market Research/
+│   └── sources/         # Market sizing, competitor notes, regulatory landscape, customer segments
+├── ML Research/
+│   └── sources/         # ML papers, lecture notes, model references (BoltzGen, Boltz-2, ESM-2, etc.)
+├── Bio Research/
+│   └── sources/         # Biology papers: insect targets, receptor structures, binding data
+├── Company/
+│   ├── demos/           # Demo scripts and investor presentations
+│   ├── funding/         # Investor pipeline, term sheets, fundraising notes
+│   ├── legal/           # IP strategy, patent filings, regulatory (EPA), NDAs
+│   ├── meetings/        # Meeting notes with action items (<date>.md)
+│   └── strategy/        # YC strategy, go-to-market, competitive positioning
+├── Paper/
+│   ├── concepts/        # Key scientific concepts for the paper
+│   ├── methods/         # Methods notes, diagrams, cost estimates
+│   ├── targets/         # Target selection rationale and overviews
+│   ├── decisions.md     # Decision log (what, why, who)
+│   └── log.md           # Running paper progress log
+├── Pipeline/
+│   └── sprints/         # Sprint plans and pipeline run manifests
+├── Templates/           # Note templates (source, concept, issue, etc.)
+└── raw/                 # Raw assets (SVGs, images)
+```
+
+## Code layout (target structure)
 
 ```
 .
@@ -146,10 +174,13 @@ Every workflow produces a readable artifact before it's considered done. Nothing
 
 | Workflow | Artifact | Location |
 |---|---|---|
-| Paper read | Note with link, abstract, takeaways | `Papers/<subfolder>/` |
+| Bio paper read | Note with link, abstract, takeaways | `Bio Research/sources/` |
+| ML paper / resource | Note with link, summary, relevance | `ML Research/sources/` |
+| Market research | Note with source, key data, implications | `Market Research/sources/` |
 | Pipeline run | Manifest with target, seed, model hash, results summary | `Pipeline/<run_id>.md` |
 | Paper decision | Entry in decision log (what, why, who) | `Paper/decisions.md` |
 | Meeting / sync | Short notes with action items | `Company/meetings/<date>.md` |
+| Legal / IP decision | Note on patent, filing, or regulatory decision | `Company/legal/` |
 
 **Claude should prompt for the artifact if a task completes without one.** For example: if a pipeline run finishes, ask "want me to write the manifest?" before closing out.
 
