@@ -1,0 +1,5 @@
+
+Thanks fredi. Here is an illustration we put together to show how we look at each pesticide candidate. After generation, we used integrated gradients to see per amino acid characteristics for each protein from binding to other important characteristics. We mostly care about binding which is scored by three models here in green and overlap in red. Notice how some positions are marked as important for binding across multiple models, we treat these as lock proteins. When we create the next generation of candidates in silico, we use these as positions as constraints to narrow the search space. 
+
+In terms of our entire workflow, we start with generating, filtering tens to hundreds of thousands of proteins for binding and agricultural specific characteristics. Next, as explained, we compute integrated gradients to find our next constraints for generation. This loop of generation and analysis runs until we find binders that match our criteria. From here, We synthesize the candidates and measure binding experimentally. Those results retrain BoltzGen, closing the feedback loop and iteratively improving discovery efficiency.
+
