@@ -8,14 +8,14 @@
 
 ## Key Statistics
 
-| Metric | Value |
-|---|---|
+| Metric                                  | Value                                 |
+| --------------------------------------- | ------------------------------------- |
 | Santa Cruz County pediatric cancer rate | 22.5 per 100,000 children (ages 0–14) |
-| California statewide rate | 16.3 per 100,000 children |
-| Excess above state average | **+38%** |
-| State ranking | **#2 in California** by county |
-| Data period | 2017–2021 |
-| Source | National Cancer Institute |
+| California statewide rate               | 16.3 per 100,000 children             |
+| Excess above state average              | **+38%**                              |
+| State ranking                           | **#2 in California** by county        |
+| Data period                             | 2017–2021                             |
+| Source                                  | National Cancer Institute             |
 
 Santa Cruz County's rate is not a marginal outlier — it is the second-highest of all 58 California counties by a significant margin.
 
@@ -27,16 +27,16 @@ Santa Cruz County's rate is not a marginal outlier — it is the second-highest 
 
 ### Annual acreage of those 13 pesticides in Santa Cruz County (avg. 2017–2021)
 
-| Pesticide | Type | Acres/year |
-|---|---|---|
-| Propiconazole | Fungicide (triazole) | 967 |
-| Chlorothalonil | Fungicide | 642 |
-| Thiophanate-methyl | Fungicide | 650 |
-| Dimethoate | Organophosphate insecticide | 523 |
-| Paraquat dichloride | Herbicide (highly toxic) | 199 |
-| Phosmet | Organophosphate insecticide | 24 |
-| Others (linuron, diuron, etc.) | Various | ~15 |
-| **Total** | | **~3,020 acres/year** |
+| Pesticide                      | Type                        | Acres/year            |
+| ------------------------------ | --------------------------- | --------------------- |
+| Propiconazole                  | Fungicide (triazole)        | 967                   |
+| Chlorothalonil                 | Fungicide                   | 642                   |
+| Thiophanate-methyl             | Fungicide                   | 650                   |
+| Dimethoate                     | Organophosphate insecticide | 523                   |
+| Paraquat dichloride            | Herbicide (highly toxic)    | 199                   |
+| Phosmet                        | Organophosphate insecticide | 24                    |
+| Others (linuron, diuron, etc.) | Various                     | ~15                   |
+| **Total**                      |                             | **~3,020 acres/year** |
 
 A 2024 Nebraska study additionally identified **dicamba and glyphosate** as having the strongest associations with childhood cancers — if included, total reaches ~5,060 acres/year (~8 sq miles) of cancer-linked pesticide application annually in Santa Cruz County alone.
 
