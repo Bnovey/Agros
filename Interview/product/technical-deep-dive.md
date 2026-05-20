@@ -42,11 +42,11 @@ Where:
 
 ## Three Models, Three Independent Architectures
 
-| Model | Architecture | IG input surface | IG target | Status |
-|---|---|---|---|---|
-| Boltz-2 | AlphaFold2 trunk + diffusion + affinity head | `s_inputs` from `InputEmbedder` — shape `(1, N, token_s)` | `affinity_pred_value` — scalar kcal/mol | Affinity prediction ✓, IG backprop ✗ (debugging) |
-| Chai-1 | Diffusion + confidence head | `token_single_initial_repr` — shape `(1, N, D)` | `interface_ptm` from `pae_logits` (differentiable PyTorch) | Prediction ✓, IG backprop ✗ (TorchScript block) |
-| CAMP | CNN + self-attention, 5-fold ensemble | `embed_seq(x_pep)` — shape `(1, L, 128)` | sigmoid affinity score [0, 1] | Prediction ✓, IG ✓ (working end-to-end) |
+| Model   | Architecture                                 | IG input surface                                          | IG target                                                  | Status                                           |
+| ------- | -------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------ |
+| Boltz-2 | AlphaFold2 trunk + diffusion + affinity head | `s_inputs` from `InputEmbedder` — shape `(1, N, token_s)` | `affinity_pred_value` — scalar kcal/mol                    | Affinity prediction ✓, IG backprop ✗ (debugging) |
+| Chai-1  | Diffusion + confidence head                  | `token_single_initial_repr` — shape `(1, N, D)`           | `interface_ptm` from `pae_logits` (differentiable PyTorch) | Prediction ✓, IG backprop ✗ (TorchScript block)  |
+| CAMP    | CNN + self-attention, 5-fold ensemble        | `embed_seq(x_pep)` — shape `(1, L, 128)`                  | sigmoid affinity score [0, 1]                              | Prediction ✓, IG ✓ (working end-to-end)          |
 
 **Why three models?** Agreement across structurally independent architectures is a much stronger signal than any single model. If Boltz-2, Chai-1, and CAMP all flag residue 7 as critical, you can be confident before synthesis. Disagreement is also informative — it tells you which residues are model-specific artifacts vs. real biology.
 
