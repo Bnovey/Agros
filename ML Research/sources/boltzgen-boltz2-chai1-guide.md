@@ -16,14 +16,14 @@ Three models, three jobs:
 
 All three descend from the same architectural lineage: **AlphaFold3's PairFormer + diffusion** framework. Understanding that foundation is the key to understanding all three models.
 
-| | BoltzGen | Boltz-2 | Chai-1 |
-|---|---|---|---|
-| **Job** | Generate binders | Score structure + affinity | Score structure only |
-| **Output** | Sequence + complex PDB | Structure + affinity proxy | Structure + pLDDT/PAE |
-| **Affinity prediction** | No | Yes | No |
-| **MSA required** | No | No | Optional (helps) |
-| **Open source** | Yes (MIT) | Yes (MIT) | Yes (non-commercial) |
-| **Primary use in Agros** | Candidate generation | Ranking | Cross-validation |
+|                          | BoltzGen               | Boltz-2                    | Chai-1                |
+| ------------------------ | ---------------------- | -------------------------- | --------------------- |
+| **Job**                  | Generate binders       | Score structure + affinity | Score structure only  |
+| **Output**               | Sequence + complex PDB | Structure + affinity proxy | Structure + pLDDT/PAE |
+| **Affinity prediction**  | No                     | Yes                        | No                    |
+| **MSA required**         | No                     | No                         | Optional (helps)      |
+| **Open source**          | Yes (MIT)              | Yes (MIT)                  | Yes (non-commercial)  |
+| **Primary use in Agros** | Candidate generation   | Ranking                    | Cross-validation      |
 
 ---
 
