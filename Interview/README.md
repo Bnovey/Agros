@@ -7,7 +7,7 @@ YC interviews are ~10 minutes, rapid-fire. Partners interrupt constantly. Every 
 | Folder | What goes there |
 |--------|----------------|
 | [company/](company/) | One-liner, mission, elevator pitch |
-| [product/](product/) | How it works, technical approach, demo notes |
+| [product/](product/) | How it works, technical approach, demo notes, tech stack rationale |
 | [market/](market/) | TAM/SAM/SOM, market dynamics, why now |
 | [team/](team/) | Founder bios, why us, commitment |
 | [traction/](traction/) | Metrics, customer conversations, lab results |
@@ -31,6 +31,7 @@ YC interviews are ~10 minutes, rapid-fire. Partners interrupt constantly. Every 
 ## Key Documents
 
 - [Numbers Cheat Sheet](numbers-cheatsheet.md) — start here, memorize everything on this page
+- [Tech Stack Rationale](product/tech-stack.md) — every tool, why we chose it, what we ruled out
 - [One-Liner & Pitch](company/one-liner.md) — memorize this
 - [Q&A Master Sheet](qa-prep/questions.md) — drill daily out loud
 - [Market Sizing](market/tam-sam-som.md) — know the math
