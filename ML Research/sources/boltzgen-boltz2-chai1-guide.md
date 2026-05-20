@@ -1,4 +1,4 @@
-# How BoltzGen, Boltz-2, and Chai-1 Work
+# How BoltzGen, Boltz-2, Chai-1, and Protenix-v1 Work
 
 **Type:** ML Research — deep technical guide
 **Date:** 2026-05-19
@@ -8,22 +8,24 @@
 
 ## TL;DR
 
-Three models, three jobs:
+Four models, four jobs:
 
 - **BoltzGen** — *generates* candidate peptide sequences + their predicted bound structures simultaneously, using a diffusion process over joint sequence-structure space. You give it a target PDB and a design spec; it samples a population of binders.
 - **Boltz-2** — *scores* those candidates by predicting both the 3D structure of the complex and a binding affinity proxy (Kd/IC50 scale). Its new affinity module sits on top of a shared structural trunk and is the primary ranking signal in the pipeline.
 - **Chai-1** — *independently validates* structure predictions. Same PairFormer + diffusion paradigm as Boltz-2, but no affinity module. Useful as a second-opinion on complex geometry and interface confidence.
+- **Protenix-v1** — ByteDance's fully open-source AF3 reimplementation (Apache 2.0). Matches AF3 accuracy, supports RNA MSA + multimer templates, and is the only realistic fine-tuning candidate post-funding. No affinity module — structural oracle only.
 
-All three descend from the same architectural lineage: **AlphaFold3's PairFormer + diffusion** framework. Understanding that foundation is the key to understanding all three models.
+All four descend from the same architectural lineage: **AlphaFold3's PairFormer + diffusion** framework. Understanding that foundation is the key to understanding all four models.
 
-| | BoltzGen | Boltz-2 | Chai-1 |
-|---|---|---|---|
-| **Job** | Generate binders | Score structure + affinity | Score structure only |
-| **Output** | Sequence + complex PDB | Structure + affinity proxy | Structure + pLDDT/PAE |
-| **Affinity prediction** | No | Yes | No |
-| **MSA required** | No | No | Optional (helps) |
-| **Open source** | Yes (MIT) | Yes (MIT) | Yes (non-commercial) |
-| **Primary use in Agros** | Candidate generation | Ranking | Cross-validation |
+|                          | BoltzGen               | Boltz-2                    | Chai-1                | Protenix-v1              |
+| ------------------------ | ---------------------- | -------------------------- | --------------------- | ------------------------ |
+| **Job**                  | Generate binders       | Score structure + affinity | Score structure only  | Score structure only     |
+| **Output**               | Sequence + complex PDB | Structure + affinity proxy | Structure + pLDDT/PAE | Structure + pLDDT/PAE    |
+| **Affinity prediction**  | No                     | Yes                        | No                    | No                       |
+| **MSA required**         | No                     | No                         | Optional (helps)      | Optional (helps)         |
+| **Open source**          | Yes (MIT)              | Yes (MIT)                  | Yes (non-commercial)  | Yes (Apache 2.0)         |
+| **Training code open**   | No                     | No                         | No                    | Yes                      |
+| **Primary use in Agros** | Candidate generation   | Ranking                    | Cross-validation      | Watch list / fine-tuning |
 
 ---
 
@@ -341,7 +343,83 @@ Multiple structures are sampled (stochastic diffusion) and ranked by ipTM — th
 
 ---
 
-## Part 5: How They Fit Together in the Agros Pipeline
+## Part 5: Protenix-v1 — Deep Dive
+
+### 5.1 What it is
+
+Protenix-v1 (PX-v1) is ByteDance's fully open-source reimplementation of the AF3 architecture, released February 2026. It is the first open model to match or exceed AF3 accuracy under identical constraints: same training data cutoff (September 30, 2021), same model scale (368M parameters), same inference budget.
+
+The name means "Protein + X" — X covering DNA, RNA, small-molecule ligands, and ions. It handles all-atom 3D structure prediction for arbitrary multi-component complexes in a single model.
+
+License: **Apache 2.0** for weights + training code + data pipeline — more permissive than Boltz-2 (MIT) and substantially more permissive than AlphaFold3 (non-commercial only). This is relevant for eventual commercialization.
+
+|                          | Protenix-v1   | Boltz-2       | Chai-1         | AlphaFold3     |
+| ------------------------ | ------------- | ------------- | -------------- | -------------- |
+| **Parameters**           | 368M          | Not disclosed | Not disclosed  | ~600M est.     |
+| **Affinity prediction**  | No            | Yes           | No             | No             |
+| **License**              | Apache 2.0    | MIT           | Non-commercial | Non-commercial |
+| **Training data cutoff** | Sept 30, 2021 | Sept 30, 2021 | 2023 est.      | Sept 30, 2021  |
+| **Open training code**   | Yes           | No            | No             | No             |
+
+### 5.2 Architecture
+
+Protenix-v1 is a faithful PyTorch re-implementation of AF3's **PairFormer + diffusion** framework (see Part 1 for the shared foundation). The core pipeline is identical:
+
+1. Input embedding — sequence, MSA, templates, ligand features → initial pair and single representations
+2. PairFormer trunk — 48 blocks of triangle multiplicative updates + triangle attention → refined $$\mathbf{Z}$$ (pair) and $$\mathbf{S}$$ (single)
+3. Diffusion structure module — iterative denoising over all-atom coordinates conditioned on $$\mathbf{Z}$$
+4. Confidence module — per-residue pLDDT + PAE
+
+Key additions over a vanilla AF3 reimplementation:
+
+**RNA MSA support.** Protenix-v1 processes MSAs for RNA chains, not just proteins. AF3 effectively treats RNA as a single-sequence input; PX-v1 extracts co-evolutionary signals for RNA, improving RNA structure and protein-RNA complex accuracy.
+
+**Protein template integration with full multimer support.** Templates (homologous structures) can be provided for any chain in a multimer. The template features are projected into the pair representation before the trunk runs — same mechanism as AF3, but extended to handle heteromeric complexes with templates on multiple chains simultaneously.
+
+**Inference-time scaling.** Accuracy improves log-linearly with the number of sampled candidates, particularly on antibody-antigen and other flexible-interface targets. This is not a model-architecture property — it reflects that the diffusion process is stochastic, and sampling more candidates increases the probability of hitting a near-native structure. The implication: for high-stakes predictions, budget 10–25 samples rather than 1.
+
+### 5.3 Training
+
+Protenix-v1 is the first open model to release the full training pipeline, not just inference:
+
+- **Data pipeline**: PDB processing, clustering, MSA generation (identical splits to AF3 to enable fair benchmarking)
+- **Training code**: PyTorch, fully reproducible from checkpoint
+- **Distillation data**: Uses AF2-predicted structures for low-homology targets (same approach as AF3)
+
+Because the training code is open, it is the most feasible model to fine-tune on ag-specific binding data post-funding. Boltz-2's fine-tuning requires working backward from a closed training stack; PX-v1's is directly accessible.
+
+### 5.4 The PXMeter benchmark
+
+The team released **PXMeter v1.0.0** alongside the model — a manually curated evaluation suite with:
+- 6,000+ complexes held out past the training cutoff
+- Time-split variants (to test generalization to new structures, not just new sequences)
+- Domain-specific subsets: antibody-antigen, protein-RNA, protein-small-molecule
+- Unified metrics: complex lDDT, DockQ
+
+This is now the most rigorous public benchmark for structure prediction models. If the Agros paper includes structural validation, PXMeter subsets are worth citing as evaluation standards.
+
+### 5.5 Supporting ecosystem
+
+| Tool | Purpose | Relevance to Agros |
+|---|---|---|
+| **PXDesign** | Binder design; 20–73% experimental hit rates reported | Potential alternative to BoltzGen for generation |
+| **Protenix-Dock** | Classical ligand docking integrated with PX-v1 structures | Physics-based docking baseline for paper benchmarking |
+| **Protenix-Mini** | Compressed lightweight variants | Could run on A10G vs A100 — worth testing for cost reduction |
+
+### 5.6 Relevance to Agros
+
+**Not currently in the pipeline.** Protenix-v1 has no affinity module, so it cannot replace Boltz-2 as the ranking signal. Its role, if added, would be the same as Chai-1: an independent structural oracle for cross-validation.
+
+**Why it's worth watching:**
+1. Apache 2.0 license makes it the only realistic candidate for fine-tuning on proprietary ag-specific assay data post-funding
+2. Protenix-Mini variants may offer a cheaper second-opinion check than Chai-1 on A100
+3. PXDesign experimental hit rates (20–73%) are competitive with BoltzGen — worth benchmarking head-to-head once wet-lab data exists
+
+**For the paper:** Protenix-v1 / AF3 parity is relevant context for situating Boltz-2's affinity module as the differentiating capability. The paper's IG analysis runs on Boltz-2 specifically because it has the affinity head — Protenix-v1 and Chai-1 are structural models only and cannot produce the affinity-attributed IG profiles the paper is built around.
+
+---
+
+## Part 6: How They Fit Together in the Agros Pipeline
 
 ```
 Target PDB (nAChR, RyR, etc.)
