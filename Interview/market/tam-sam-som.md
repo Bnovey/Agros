@@ -6,8 +6,10 @@
 |--------|------|--------|
 | Global crop protection market | ~$60B (2024), projected $150B by 2050 | ACS C&EN / Calcalist |
 | Global fungicide segment | ~$20–24B (2024), CAGR ~5–6% | Mordor Intelligence, Fortune Business Insights |
+| Global insecticide segment | ~$18–20B (2024), CAGR ~5% | Grand View Research |
 | Global biopesticide market | ~$7–8B (2024), CAGR ~12–15% | MarketsandMarkets, Strategic Market Research |
 | Biofungicide segment | ~$3.2B (2025) → $5.8B by 2031, CAGR ~11% | Mordor Intelligence |
+| Bioinsecticide segment | ~$2.5B (2024), CAGR ~14% | Grand View Research |
 | Botrytis cinerea annual losses | >$10B worldwide | Oxford Academic, ScienceDirect |
 | Botrytis fungicides = % of global fungicide market | ~10% of global fungicide market | PMC / Phytopathology |
 | Fruits & vegetables fungicide spend | 36.8% of total fungicide market (~$7–9B) | Grand View Research |
@@ -20,15 +22,25 @@
 > The global biopesticide market is $7–8B today, growing at 12–15% CAGR to $14–18B by 2030.
 > Broader frame: the $60B+ crop protection market is undergoing a secular shift to biologicals driven by regulation and resistance.
 
-**SAM — Serviceable Addressable Market**
-> Antifungal biopesticides for specialty crops (fruits, vegetables, ornamentals) in the US and EU.
+**SAM — Two layers, expanding over time**
+
+**SAM Layer 1 — Initial wedge (now → 18 months): Antifungal biopesticides for specialty crops**
+> This is where we start. Botrytis is the entry point — the resistance crisis is most acute and best-documented here, the customer (specialty crop grower) is well-defined, and the target (β-glucan synthase) has enough published structural and mutagenesis data to validate our IG analysis before we synthesize.
 > - Botrytis alone causes >$10B in annual crop losses globally
-> - US + EU specialty crop biofungicide spend: estimated **$400–800M today**, growing rapidly
-> - Biofungicide segment growing at 11% CAGR vs. 5% for conventional fungicides
+> - US + EU specialty crop biofungicide spend: estimated **$400–800M today**, growing at 11% CAGR
+> - No peptide-first player in this space yet
+
+**SAM Layer 2 — Platform expansion (18 months → 3 years): All peptide biopesticides for specialty crops**
+> Our pipeline already includes Lepidopteran nAChR and RyR — insecticidal targets. The platform (BoltzGen + Boltz-2 + IG) is target-agnostic. Once the antifungal loop is validated, we point it at insect and nematode targets with the same infrastructure.
+> - US + EU specialty crop bioinsecticide + biofungicide + bionematicide spend: estimated **$1.2–2B today**
+> - Each new target adds a validated active to the licensing portfolio and deepens the proprietary dataset moat
+
+**Why we start narrow:**
+Starting with Botrytis is a deliberate wedge strategy, not a limitation. YC prefers founders who pick the sharpest entry point and expand — not founders who claim to address all pests at once. Antifungal is the sharpest because: (1) resistance data is the most visceral, (2) structural biology for the target is the most mature, (3) the specialty crop grower customer is the most accessible.
 
 **SOM — Serviceable Obtainable Market**
-> In 3–5 years: 1–2% of SAM via licensing deals with distributors or agchem partners = **$5–15M ARR**
-> Path: 1–2 validated actives licensed at $1–3M upfront + royalties, with field trial data from specialty crop pilots
+> In 3–5 years: 1–2% of Layer 2 SAM via licensing deals = **$12–40M ARR**
+> Path: 2–3 validated actives (antifungal + insecticidal) licensed at $1–3M upfront + royalties, with field trial data from specialty crop pilots
 
 ---
 
