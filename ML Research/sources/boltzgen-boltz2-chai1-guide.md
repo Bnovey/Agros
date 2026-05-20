@@ -353,13 +353,13 @@ The name means "Protein + X" — X covering DNA, RNA, small-molecule ligands, an
 
 License: **Apache 2.0** for weights + training code + data pipeline — more permissive than Boltz-2 (MIT) and substantially more permissive than AlphaFold3 (non-commercial only). This is relevant for eventual commercialization.
 
-|  | Protenix-v1 | Boltz-2 | Chai-1 | AlphaFold3 |
-|---|---|---|---|---|
-| **Parameters** | 368M | Not disclosed | Not disclosed | ~600M est. |
-| **Affinity prediction** | No | Yes | No | No |
-| **License** | Apache 2.0 | MIT | Non-commercial | Non-commercial |
-| **Training data cutoff** | Sept 30, 2021 | Sept 30, 2021 | 2023 est. | Sept 30, 2021 |
-| **Open training code** | Yes | No | No | No |
+|                          | Protenix-v1   | Boltz-2       | Chai-1         | AlphaFold3     |
+| ------------------------ | ------------- | ------------- | -------------- | -------------- |
+| **Parameters**           | 368M          | Not disclosed | Not disclosed  | ~600M est.     |
+| **Affinity prediction**  | No            | Yes           | No             | No             |
+| **License**              | Apache 2.0    | MIT           | Non-commercial | Non-commercial |
+| **Training data cutoff** | Sept 30, 2021 | Sept 30, 2021 | 2023 est.      | Sept 30, 2021  |
+| **Open training code**   | Yes           | No            | No             | No             |
 
 ### 5.2 Architecture
 
