@@ -14,6 +14,7 @@ YC interviews are ~10 minutes, rapid-fire. Partners interrupt constantly. Every 
 | [competition/](competition/) | Competitive landscape, moat, differentiation |
 | [business-model/](business-model/) | Revenue model, pricing, go-to-market |
 | [qa-prep/](qa-prep/) | Scripted answers to the hardest YC questions |
+| [policy-and-funding/](policy-and-funding/) | Regulatory pathways, international scaling, political risk, federal grants |
 
 ## Interview Format
 
@@ -29,3 +30,4 @@ YC interviews are ~10 minutes, rapid-fire. Partners interrupt constantly. Every 
 - [Q&A Master Sheet](qa-prep/questions.md) — drill daily
 - [Market Sizing](market/tam-sam-som.md) — know the math
 - [Competitive Landscape](competition/landscape.md) — know every player
+- [Policy & Funding](policy-and-funding/overview.md) — regulatory strategy, political risks, SBIR grants
