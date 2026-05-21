@@ -35,6 +35,25 @@
 - Premium biopesticide pricing: $100–250/acre/season feasible for highly effective novel mechanisms
 - Growers will pay a premium for resistance-breaking actives with no existing alternative
 
+### Per-acre cost vs. conventional pesticides
+
+**The honest answer:** our first peptide biopesticide will likely cost more per acre than generic synthetic fungicides. That is acceptable because we are not competing with cheap commodity chemistry first — we are targeting high-value specialty crops where resistance has made the cheap tools unreliable.
+
+| Category | Typical grower cost | Why growers pay it |
+|----------|---------------------|--------------------|
+| Generic conventional fungicide | ~$10–40/acre/application | Cheap, familiar, but resistance is widespread and efficacy is declining |
+| Full conventional spray program | ~$50–150/acre/season | Standard rotation across multiple FRAC classes; still vulnerable when Botrytis populations are multi-resistant |
+| Existing premium biologicals | ~$75–200+/acre/season | Used when growers need residue reduction, organic compatibility, or resistance management |
+| Agros peptide biopesticide target | ~$100–250/acre/season | Premium resistance-breaking active for high-value crops where crop loss is much more expensive than treatment |
+
+**Why the premium works:**
+- **Specialty crop economics:** strawberries, grapes, tomatoes, ornamentals, and cannabis can generate thousands to tens of thousands of dollars per acre. Preventing even a small percentage of Botrytis loss can justify a $100–250/acre treatment.
+- **Resistance value:** conventional products are cheaper only if they still work. In fields with multi-resistant Botrytis, a novel mode of action is priced against avoided crop loss, not against the cheapest generic spray.
+- **Use pattern:** Agros does not need to replace every fungicide application immediately. The first commercial use case is likely a premium rotation product used at the highest-risk infection windows.
+- **COGS improve with scale:** early synthetic peptide production is expensive, but commercial manufacturing can move toward bulk synthesis, fermentation, or expression systems once a lead sequence is validated.
+
+**YC answer if asked:** "Our first product will be more expensive per acre than generic fungicides, but we are starting in specialty crops where Botrytis losses are catastrophic and resistance has made cheap chemistry unreliable. We only need to be cost-effective at the disease-control level, not cheaper molecule-for-molecule."
+
 ---
 
 ## Go-to-Market

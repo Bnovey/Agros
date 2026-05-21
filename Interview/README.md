@@ -32,6 +32,8 @@ YC interviews are ~10 minutes, rapid-fire. Partners interrupt constantly. Every 
 
 - [Numbers Cheat Sheet](numbers-cheatsheet.md) — start here, memorize everything on this page
 - [Tech Stack Rationale](product/tech-stack.md) — every tool, why we chose it, what we ruled out
+- [Protecting Peptides Against the Elements](product/protecting-peptides-against-elements.md) — field stability, formulation, and residue-engineering answer
+- [Peptide Delivery Through Barriers](product/peptide-delivery-through-barriers.md) — cell wall, cuticle, and gut-delivery strategy
 - [One-Liner & Pitch](company/one-liner.md) — memorize this
 - [Q&A Master Sheet](qa-prep/questions.md) — drill daily out loud
 - [Market Sizing](market/tam-sam-som.md) — know the math
