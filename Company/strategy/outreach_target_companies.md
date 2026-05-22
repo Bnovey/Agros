@@ -13,12 +13,12 @@ Companies to contact for partnerships, validation, and LOIs. Sorted by fit with 
 - **Target contact:** Head of R&D or External Innovation
 - **Website:** vestaron.com
 
-### Peptyde Bio
-- **What they do:** AI-discovered antimicrobial peptides (AMPs) for fungal disease control, spun out of the Danforth Plant Science Center. AMPs tested against *Botrytis cinerea* on tomatoes.
-- **Why relevant:** Nearly identical technical approach to our antifungal angle. Could be a competitor or a collaboration target depending on how the conversation goes.
-- **Status:** Early stage, $1.45M raised. Looking for commercialization partners.
-- **Target contact:** Co-founders Dilip Shah (CSO) or Kirk Czymmek (CTO)
-- **Website:** agfundernews.com/peptyde-bio (no standalone site found)
+### Invaio Sciences (acquired Peptyde Bio)
+- **What they do:** Nature-positive crop protection platform. Acquired Peptyde Bio (AI-discovered AMPs against *Botrytis cinerea*) in December 2023. Also working on novel delivery systems for biologicals.
+- **Why relevant:** They own the closest comparable technology to ours — AI-designed antifungal peptides. CSO Magalie Guilhabert joined May 2025 from Ginkgo/Bayer, understands the computational angle.
+- **Status:** Well-funded, HQ in Cambridge MA. CEO Amy O'Shea since 2024.
+- **Target contact:** Magalie Guilhabert (CSO) or Amy O'Shea (CEO)
+- **Website:** invaio.com
 
 ### Evogene
 - **What they do:** Computational biology platform company. Uses AI to discover and optimize biological active ingredients. Has subsidiaries across insecticides, herbicides, and microbiome.

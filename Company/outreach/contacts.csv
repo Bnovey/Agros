@@ -1,8 +1,17 @@
-first_name,last_name,title,company,region,city,state,phone,email
-Curt,Nelson,Western Division Sales Manager,Certis Biologicals,San Joaquin Valley,Dos Palos,CA,831-801-6292,CNelson@certisbio.com
-Dave,Silva,Regional Manager,Certis Biologicals,Central Coast,Nipomo,CA,805-680-6448,DSilva@certisbio.com
-Jeremy,Wagnitz,Senior Field Development Manager,Certis Biologicals,"California, Arizona, Nevada, Hawaii",San Luis Obispo,CA,820-203-1593,JWagnitz@certisbio.com
-Tommy,Van Groningen,Regional Sales Manager,Certis Biologicals,Northern California/Nevada,Ripon,CA,530-953-4474,TVangroningen@certisbio.com
-Greg,Comeau,Regional Manager,Certis Biologicals,Mid Atlantic,Langdon,NH,603-306-7298,GComeau@certisbio.com
-Amanda,Eade,Regional Manager,Certis Biologicals,Southeast,Raleigh,NC,919-537-5437,AEade@certisbio.com
-Karly,Regan,Field Development Manager,Certis Biologicals,Northeast,Smithsburg,MD,410-940-2447,KRegan@certisbio.com
+first_name,last_name,title,company,region,city,state,phone,email,email_confidence
+Curt,Nelson,Western Division Sales Manager,Certis Biologicals,San Joaquin Valley,Dos Palos,CA,831-801-6292,CNelson@certisbio.com,confirmed
+Dave,Silva,Regional Manager,Certis Biologicals,Central Coast,Nipomo,CA,805-680-6448,DSilva@certisbio.com,confirmed
+Jeremy,Wagnitz,Senior Field Development Manager,Certis Biologicals,"California, Arizona, Nevada, Hawaii",San Luis Obispo,CA,820-203-1593,JWagnitz@certisbio.com,confirmed
+Tommy,Van Groningen,Regional Sales Manager,Certis Biologicals,Northern California/Nevada,Ripon,CA,530-953-4474,TVangroningen@certisbio.com,confirmed
+Greg,Comeau,Regional Manager,Certis Biologicals,Mid Atlantic,Langdon,NH,603-306-7298,GComeau@certisbio.com,confirmed
+Amanda,Eade,Regional Manager,Certis Biologicals,Southeast,Raleigh,NC,919-537-5437,AEade@certisbio.com,confirmed
+Karly,Regan,Field Development Manager,Certis Biologicals,Northeast,Smithsburg,MD,410-940-2447,KRegan@certisbio.com,confirmed
+Shaun,Berry,VP Research & Development,Certis Biologicals,,,MD,,SBerry@certisbio.com,inferred
+Juan,Estupinan,CEO & President,Vestaron,,,Durham NC,919-694-1022,jestupinan@vestaron.com,inferred
+Steve,Betz,Sales,Vestaron,,,,,sbetz@vestaron.com,confirmed
+Ben,Cicora,SVP Sales & Marketing,Vestaron,,,,,bcicora@vestaron.com,confirmed
+Dawn,Calibeo,VP Field Development,Vestaron,,Yuma,AZ,928-920-8625,dcalibeo@vestaron.com,confirmed
+Kalle,Virta,Director R&D,Pro Farm Group,,,Finland,,kvirta@marronebio.com,inferred
+Karen,Mazor,Director Investor & Public Relations,Evogene,,,Israel,,karen.mazor@evogene.com,confirmed
+Amy,O'Shea,CEO,Invaio Sciences,,,Cambridge MA,,aoshea@invaio.com,inferred
+Magalie,Guilhabert,Chief Science Officer,Invaio Sciences,,,Cambridge MA,,mguilhabert@invaio.com,inferred
