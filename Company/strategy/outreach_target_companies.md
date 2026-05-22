@@ -54,6 +54,17 @@ Companies to contact for partnerships, validation, and LOIs. Sorted by fit with 
 
 ---
 
+## Nearby — Bay Area / Northern California
+
+### BioConsortia ⭐ Davis, CA (~1 hr from Berkeley)
+- **What they do:** Microbial biopesticide and biostimulant development. Focuses on building microbial consortia for pest control and crop productivity.
+- **Why relevant:** Close enough to meet in person this week. BPIA member, R&D-focused, $15M raised. A face-to-face meeting is the fastest path to an LOI.
+- **Status:** Active, Davis-based, HQ at 279 Cousteau Place.
+- **Target contact:** Susan Turner (SVP R&D) — 530-564-5570
+- **Website:** bioconsortia.com
+
+---
+
 ## Tier 3 — Worth a shot
 
 ### Lavie Bio (now part of ICL)

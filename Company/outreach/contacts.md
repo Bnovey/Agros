@@ -109,3 +109,44 @@ HQ phone: 530-564-5570 · General: info@bioconsortia.com
 | Name | Title | Phone | Email | Confidence |
 |---|---|---|---|---|
 | Susan Turner | SVP Research & Development | 530-564-5570 | sturner@bioconsortia.com | inferred |
+
+---
+
+## Gowan Company
+
+Family-owned, Yuma AZ. Active biopesticide portfolio, known for external partnerships. HQ: 800-883-1844 · General: info@gowanco.com · Email format: firstinitiallastname@gowanco.com
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Juli Jessen | CEO | — | jjessen@gowanco.com | inferred |
+
+---
+
+## Koppert Biological Systems
+
+50+ years in biocontrol, global leader. HQ (US): 800-928-8827 · General: info@koppertus.com · Email format: firstinitiallastname@koppertus.com
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Kenny Roche | Agronomic R&D Lead USA | — | kroche@koppertus.com | inferred |
+
+---
+
+## Biobest Group
+
+Belgian biocontrol company, acquired BioWorks. Has dedicated biopesticide BD director. Email format: firstname.lastname@biobestgroup.com
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Lara Ramaekers | Business Development Director, Biopesticides | — | lara.ramaekers@biobestgroup.com | inferred |
+| Felix Wäckers | R&D Director | — | felix.wackers@biobestgroup.com | inferred |
+
+---
+
+## UPL / NPP Biosolutions
+
+Global ag company with dedicated biosolutions division. Ex-Bayer R&D head as CTO — understands open innovation. Email format: firstname.lastname@upl-ltd.com
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Adrian Percy | Chief Technology Officer | — | adrian.percy@upl-ltd.com | inferred |
