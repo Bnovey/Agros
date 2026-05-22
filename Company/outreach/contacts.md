@@ -430,3 +430,205 @@ HQ: 530-564-5570 · 279 Cousteau Place, Davis CA · info@bioconsortia.com
 | Marcus Meadows-Smith | CEO                        | 530-574-9535 | mmeadows-smith@bioconsortia.com | confirmed  |
 | Sarah McKenna        | SVP Business Development   | 530-564-5570 | smckenna@bioconsortia.com       | inferred   |
 | Susan Turner         | SVP Research & Development | 530-564-5570 | sturner@bioconsortia.com        | inferred   |
+
+---
+
+## BASF Agricultural Solutions
+
+Email format: firstname.lastname@basf.com
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Neil Bentley | VP Market Management NA | — | neil.bentley@basf.com | inferred |
+| Padma Commuri | Director R&D Agricultural Solutions NA | — | padma.commuri@basf.com | inferred |
+
+---
+
+## Pro Farm Group / Bioceres (additional)
+
+HQ phone: 530-750-2800 · Email format: firstinitiallastname@marronebio.com
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Amit Vasavada | SVP R&D & CTO | — | avasavada@marronebio.com | inferred |
+| Clyde Montevirgen | VP Business Development | 530-750-2800 | cmontevirgen@marronebio.com | inferred |
+| Matti Tiainen | Managing Director NA & Europe / President ProFarm | — | mtiainen@marronebio.com | inferred |
+| Federico Trucco | CEO, Bioceres Crop Solutions | — | ftrucco@biocerescrops.com | inferred |
+
+---
+
+## ICL Growing Solutions (Lavie Bio)
+
+ICL acquired Lavie Bio from Evogene July 2025. Integrated into ICL Growing Solutions Global R&D. Email format: firstname.lastname@icl-group.com
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Elinor Erez | VP R&D, Growing Solutions | — | elinor.erez@icl-group.com | inferred |
+
+---
+
+## AgroSpheres
+
+Charlottesville VA. Biological crop protection delivery (AgriCell encapsulation). $37M raised. FMC and BASF partnerships. Email format: firstname@agrospheres.com
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Payam Pourtaheri | CEO & Co-Founder | — | payam@agrospheres.com | inferred |
+| Ameer Shakeel | CTO & Co-Founder | — | ameer@agrospheres.com | inferred |
+
+---
+
+## Novonesis (formerly Novozymes + Chr. Hansen)
+
+Merged 2024. Global biosolutions leader with plant health biologicals division. Email format: firstname.lastname@novonesis.com
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Jason Ward | Plant Biosolutions Commercial Lead NA | — | jason.ward@novonesis.com | inferred |
+
+---
+
+## Heliae Agriculture
+
+Gilbert AZ. Microalgal crop biologicals (PhycoTerra® brand). ~80 employees. Email format: firstinitiallastname@heliae.com
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Eric Lichtenheld | CEO | — | elichtenheld@heliae.com | inferred |
+| Matthew Saunders | VP Research & Development | — | msaunders@heliae.com | inferred |
+
+---
+
+## AgBiome (additional contacts)
+
+Research Triangle Park NC. Microbial biopesticide platform. Email format: firstinitiallastname@agbiome.com
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Gustavo Gonzalez | VP Commercial Business Development | — | ggonzalez@agbiome.com | inferred |
+| Natarajan Balachander | Business Development Director | — | nbalachander@agbiome.com | inferred |
+
+---
+
+## BioWorks (acquired by Biobest 2023)
+
+Victor NY. Biopesticides for horticulture and specialty ag. Part of Biobest Group. HQ: 800-877-9443 · Email format: firstname.lastname@bioworksinc.com
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Bill Foster | CEO | 800-877-9443 | bfoster@bioworksinc.com | inferred |
+| Troy Bettner | VP Sales Marketing & Technical Services | — | Troy.Bettner@bioworksinc.com | confirmed |
+
+---
+
+## Syngenta Biologicals (global leadership)
+
+Basel Switzerland + Orangeburg SC (US manufacturing). Email format: firstname.lastname@syngenta.com
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Camilla Corsi | Global Head Crop Protection R&D | — | camilla.corsi@syngenta.com | inferred |
+| Jonathan Brown | Global Head Seedcare & Biologicals | — | jonathan.brown@syngenta.com | inferred |
+
+---
+
+## Corteva (additional)
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Mai Komatsu | Open Innovation Subject Matter Expert | — | mai.komatsu@corteva.com | inferred |
+
+---
+
+## Gowan Company (additional)
+
+Gowan launched dedicated biologicals BU (EcoFlora). Jim Petta came from Syngenta/Valent USA.
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Jim Petta | President, EcoFlora Biologicals BU | — | jpetta@gowanco.com | inferred |
+
+---
+
+## Indigo Ag
+
+Boston MA. Microbial endophyte crop protection. BPIA member. HQ: 844-828-0240 · Email format: firstinitiallastname@indigoag.com
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Scott Lowman | Director Plant Endophyte & Applied Research | — | slowman@indigoag.com | inferred |
+
+---
+
+## Wilbur-Ellis (additional)
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Scott Addy | VP Branded Technologies & Biological Solutions | — | saddy@wilburellis.com | inferred |
+
+---
+
+## Acadian Plant Health (additional)
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Shannon Wentz | Global Director Communications | 403-973-2716 | swentz@acadian.ca | confirmed |
+
+---
+
+## Valent BioSciences / Sumitomo Biorational (additional)
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Emily Stoutenborough | Media Contact | 925-532-6284 | emily.stoutenborough@valentbiosciences.com | confirmed |
+
+---
+
+## Sound Agriculture ⭐ Emeryville, CA (updated)
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Eddy Munsi | Co-CEO | — | emunsi@sound.ag | inferred |
+| Adam Litle | Co-CEO | — | a.litle@sound.ag | inferred |
+| Jeff Divan | Sr Director Agronomy | — | j.divan@sound.ag | inferred |
+
+---
+
+## Verdesian Life Sciences (updated)
+
+Email format: firstname.lastname@vlsci.com
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Clare Doyle | CEO | — | clare.doyle@vlsci.com | inferred |
+| Kuide Qin | R&D Lead | — | kuide.qin@vlsci.com | inferred |
+
+---
+
+## New Edge Microbials
+
+Australia. Beneficial bacterial crop protection. Email format: firstinitiallastname@nem.com.au
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Ben Barlow | Managing Director | — | bbarlow@nem.com.au | inferred |
+
+---
+
+## Andermatt Group AG
+
+Switzerland. One of the largest baculovirus manufacturers globally. US operations: Mullica Hill NJ · contact@andermattusa.com · HQ: +41-62-917-5125 · Email format: firstinitial.lastname@andermatt.com
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Daniel Zingg | CEO | +41-62-917-5125 | d.zingg@andermatt.com | inferred |
+
+---
+
+## Ginkgo Bioworks Agriculture
+
+Boston MA. Absorbed Joyn Bio (Bayer JV). Active in microbial ag biologicals. Email format: firstname.lastname@ginkgobioworks.com
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Michael Miille | GM Agriculture Business Unit | — | mmiille@ginkgobioworks.com | inferred |
