@@ -362,3 +362,71 @@ UK-based biocontrol innovator, King's Award for Innovation 2024. Syngenta acquir
 | Name | Title | Phone | Email | Confidence |
 |---|---|---|---|---|
 | Minshad Ansari | Founder & CEO | +44-1792-606916 | mansari@bionema.com | inferred |
+
+---
+
+## Micropep Technologies
+
+Toulouse, France. Micropeptide-based crop protection — same core approach as Agros (small peptides as crop protection AIs). Most directly analogous company in the world. New CEO Georg Goeres as of July 2025.
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Georg Goeres | CEO | — | georg.goeres@micro-pep.com | inferred |
+
+---
+
+## AlphaBio Control
+
+Cambridge, UK. Biocontrol startup with fungicide and insecticide pipeline.
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Marta Ruiz | General Manager | — | mruiz@alphabiocontrol.com | inferred |
+
+---
+
+## Syngenta Biologicals (additional)
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Brent Lackey | Seedcare & Biologicals Product Marketing Head NA | — | blackey@syngenta.com | inferred |
+
+---
+
+## Pivot Bio ⭐ Berkeley-adjacent
+
+Microbial nitrogen fixation — large Bay Area bioag company ($600M+ raised). Understands computational biology and has scaled from discovery to commercial product.
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Chris Abbott | CEO | — | cabbott@pivotbio.com | confirmed |
+
+---
+
+## Symbiomics
+
+Florianópolis, Brazil. Microbial biopesticide startup, active in Latin American markets.
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Rafael Souza | CEO & Co-Founder | — | rafael.souza@symbiomics.com.br | inferred |
+
+---
+
+## FMC Corporation (additional)
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Lisa Hoffman | Director Development Biology & External Partnerships | 215-299-6000 | lhoffman@fmc.com | inferred |
+
+---
+
+## BioConsortia ⭐ Davis, CA (updated)
+
+HQ: 530-564-5570 · 279 Cousteau Place, Davis CA · info@bioconsortia.com
+
+| Name                 | Title                      | Phone        | Email                           | Confidence |
+| -------------------- | -------------------------- | ------------ | ------------------------------- | ---------- |
+| Marcus Meadows-Smith | CEO                        | 530-574-9535 | mmeadows-smith@bioconsortia.com | confirmed  |
+| Sarah McKenna        | SVP Business Development   | 530-564-5570 | smckenna@bioconsortia.com       | inferred   |
+| Susan Turner         | SVP Research & Development | 530-564-5570 | sturner@bioconsortia.com        | inferred   |
