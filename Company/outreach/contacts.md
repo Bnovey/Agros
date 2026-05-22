@@ -44,8 +44,12 @@ HQ phone: 530-750-2800 · General: info@marronebio.com
 
 ## Evogene
 
+Publicly traded (NASDAQ: EVGN). Computational biology platform for ag — closest public comp to Agros. Has partnered with Bayer, Corteva, Syngenta, Marrone Bio. Email format: firstinitiallastname@evogene.com
+
 | Name | Title | Phone | Email | Confidence |
 |---|---|---|---|---|
+| Ofer Haviv | CEO & President | — | ohaviv@evogene.com | inferred |
+| Eyal Ronen | EVP Business Development | — | eronen@evogene.com | inferred |
 | Karen Mazor | Director Investor & Public Relations | — | karen.mazor@evogene.com | confirmed |
 
 ---
@@ -395,11 +399,12 @@ Cambridge, UK. Biocontrol startup with fungicide and insecticide pipeline.
 
 ## Pivot Bio ⭐ Berkeley-adjacent
 
-Microbial nitrogen fixation — large Bay Area bioag company ($600M+ raised). Understands computational biology and has scaled from discovery to commercial product.
+Microbial nitrogen fixation — large Bay Area bioag company ($600M+ raised). Understands computational biology and has scaled from discovery to commercial product. Email format: firstinitiallastname@pivotbio.com
 
 | Name | Title | Phone | Email | Confidence |
 |---|---|---|---|---|
 | Chris Abbott | CEO | — | cabbott@pivotbio.com | confirmed |
+| Travis Frey | CTO | — | tfrey@pivotbio.com | inferred |
 
 ---
 
