@@ -42,6 +42,31 @@ Deals signed after computational discovery but before significant wet-lab valida
 
 ---
 
+## Stage 2b — Peptide-Specific: Validated Platform + Field Efficacy, Pre-EPA
+
+### Micropep Technologies — Corteva Agriscience R&D Collaboration
+- **Year:** June 2025
+- **Stage:** Pre-EPA. Computational platform (Krisalix™) + high-throughput bioassay data + field efficacy demonstrated. No registered products.
+- **Structure:** Multi-year exclusive R&D collaboration. Corteva Catalyst co-invested in Micropep's $40M Series B and holds global exclusive rights to apply Micropep's peptides across biocontrol + biofungicide applications.
+- **Value:** Undisclosed deal terms. Corteva Catalyst equity participation in $40M Series B.
+- **Notes:** **Most directly comparable deal to Agros — peptide-specific, AI-discovered, Corteva as the partner, pre-EPA.** Entry point was Corteva Catalyst (Tom Greene, Senior Director), not Corteva's main BD team. Micropep had wet lab + field data before this closed — platform alone wasn't enough.
+
+### Invaio Sciences — Peptyde Bio Acquisition
+- **Year:** December 2023
+- **Stage:** Pre-EPA. Peptyde Bio had a peptide discovery + design platform and IP portfolio. No registered products.
+- **Structure:** Full acquisition of Peptyde Bio by Invaio.
+- **Value:** Undisclosed.
+- **Notes:** Invaio acquired a peptide platform specifically to accelerate their biopesticide pipeline. Shows that peptide IP (even pre-EPA) has standalone acquisition value.
+
+### Ginkgo Bioworks — Invaio Sciences Manufacturing Collaboration
+- **Year:** February 2026
+- **Stage:** Pre-EPA. Invaio had peptide candidates in development; no registered products.
+- **Structure:** Manufacturing collaboration — Ginkgo develops microbial strains for Invaio's peptide-based crop protection products.
+- **Value:** Undisclosed.
+- **Notes:** Manufacturing partnerships can be structured before EPA registration — good model for de-risking the "credible manufacturing story" Pam flagged as a prerequisite.
+
+---
+
 ## Stage 3 — Pre-Commercial / Proof of Concept
 
 Deals signed after efficacy data existed but before EPA registration or commercial launch.
@@ -114,19 +139,22 @@ Deals signed after EPA registration was in hand.
 
 What each party actually had at the time of signing — not the marketing story, the actual data.
 
-| Deal | Year | What they had | What the deal was for | Value |
-|---|---|---|---|---|
-| Joyn Bio (Bayer + Ginkgo JV) | 2017 | Ginkgo: organism design platform, strain library. Bayer: microbial archive + field ops. Zero efficacy data, zero products. | Form a JV to develop N-fixation microbes | $100M Series A |
-| Ginkgo + Bayer West Sacramento | 2022 | Bayer's existing biologics R&D facility + team. No new discovery, no new data. | Acquire infrastructure + lock in multi-year R&D services contract | ~$83M + royalties |
-| Lavie Bio + Corteva | 2023 | 2 years of Corteva-funded joint field trials. 12+ greenhouse-validated candidates. Named lead (LAV321) with field efficacy data. Formulation work done. AI platform was the story; wet lab closed the deal. | Exclusive license to develop + commercialize biofungicide candidates | $5M upfront ($2.5M at signing + $2.5M milestone) + undisclosed milestones + royalties |
-| AgroSpheres + FMC | 2024 | Proprietary AgriCell delivery platform. Early bioinsecticide efficacy data in-house. No EPA registration. | Multi-year research collaboration — FMC gets access to delivery platform + RNA portfolio | Undisclosed (raised $37M Series B same period) |
-| AgroSpheres + BASF | 2024 | Same as above. | Strategic partnership for market expansion | Undisclosed |
-| Biotalys (EU/US partnerships) | 2021–2024 | Efficacy data for antifungal proteins. EPA submission pending (approved Dec 2025). No registration yet at time of deals. | Distribution + co-development agreements, pre-registration | Undisclosed |
-| Vestaron + Wilbur-Ellis | 2020 | SPEAR-LEP® fully EPA-registered and commercially validated. Revenue-generating. | Semi-exclusive North America distribution | Undisclosed |
-| Syngenta + Bionema | 2022 | NemaTrident® and UniSpore® fully developed and registered products. | Acquisition of two specific product rights (not the company) | Undisclosed |
-| Biobest + BioWorks | 2023 | BioWorks: established commercial portfolio, revenue. | Full company acquisition | Undisclosed |
-| ICL + Lavie Bio | 2025 | AI platform (MicroBoost) + biofungicide candidates. No commercial product. Corteva deal had already terminated. | Full company acquisition | $18.75M |
-| Marrone Bio + Bioceres | 2022 | Both companies: fully commercial, revenue-generating portfolios. | All-stock merger | ~$50M implied |
+| Deal                           | Year      | What they had                                                                                                                                                                                               | What the deal was for                                                                    | Value                                                                                 |
+| ------------------------------ | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| Joyn Bio (Bayer + Ginkgo JV)   | 2017      | Ginkgo: organism design platform, strain library. Bayer: microbial archive + field ops. Zero efficacy data, zero products.                                                                                  | Form a JV to develop N-fixation microbes                                                 | $100M Series A                                                                        |
+| Ginkgo + Bayer West Sacramento | 2022      | Bayer's existing biologics R&D facility + team. No new discovery, no new data.                                                                                                                              | Acquire infrastructure + lock in multi-year R&D services contract                        | ~$83M + royalties                                                                     |
+| Lavie Bio + Corteva            | 2023      | 2 years of Corteva-funded joint field trials. 12+ greenhouse-validated candidates. Named lead (LAV321) with field efficacy data. Formulation work done. AI platform was the story; wet lab closed the deal. | Exclusive license to develop + commercialize biofungicide candidates                     | $5M upfront ($2.5M at signing + $2.5M milestone) + undisclosed milestones + royalties |
+| Micropep + Corteva             | 2025      | Krisalix™ AI platform + high-throughput bioassay data + field efficacy data. Small linear peptides (5–20 AA). No EPA registration.                                                                           | Multi-year exclusive R&D collaboration; Corteva gets global rights across biocontrol + biofungicide | Undisclosed; Corteva Catalyst co-invested in $40M Series B |
+| Invaio + Peptyde Bio           | 2023      | Peptyde Bio: peptide discovery/design platform + IP portfolio. No registered products.                                                                                                                       | Full acquisition of peptide platform                                                     | Undisclosed                                                                           |
+| Ginkgo + Invaio                | 2026      | Invaio: peptide candidates in development. No EPA registration.                                                                                                                                               | Manufacturing collaboration — Ginkgo builds strains for Invaio's peptide production     | Undisclosed                                                                           |
+| AgroSpheres + FMC              | 2024      | Proprietary AgriCell delivery platform. Early bioinsecticide efficacy data in-house. No EPA registration.                                                                                                   | Multi-year research collaboration — FMC gets access to delivery platform + RNA portfolio | Undisclosed (raised $37M Series B same period)                                        |
+| AgroSpheres + BASF             | 2024      | Same as above.                                                                                                                                                                                              | Strategic partnership for market expansion                                               | Undisclosed                                                                           |
+| Biotalys (EU/US partnerships)  | 2021–2024 | Efficacy data for antifungal proteins. EPA submission pending (approved Dec 2025). No registration yet at time of deals.                                                                                    | Distribution + co-development agreements, pre-registration                               | Undisclosed                                                                           |
+| Vestaron + Wilbur-Ellis        | 2020      | SPEAR-LEP® fully EPA-registered and commercially validated. Revenue-generating.                                                                                                                             | Semi-exclusive North America distribution                                                | Undisclosed                                                                           |
+| Syngenta + Bionema             | 2022      | NemaTrident® and UniSpore® fully developed and registered products.                                                                                                                                         | Acquisition of two specific product rights (not the company)                             | Undisclosed                                                                           |
+| Biobest + BioWorks             | 2023      | BioWorks: established commercial portfolio, revenue.                                                                                                                                                        | Full company acquisition                                                                 | Undisclosed                                                                           |
+| ICL + Lavie Bio                | 2025      | AI platform (MicroBoost) + biofungicide candidates. No commercial product. Corteva deal had already terminated.                                                                                             | Full company acquisition                                                                 | $18.75M                                                                               |
+| Marrone Bio + Bioceres         | 2022      | Both companies: fully commercial, revenue-generating portfolios.                                                                                                                                            | All-stock merger                                                                         | ~$50M implied                                                                         |
 
 ---
 
@@ -137,6 +165,9 @@ What each party actually had at the time of signing — not the marketing story,
 | Joyn Bio (Bayer + Ginkgo) | 2017 | Platform only | $100M JV |
 | Ginkgo + Bayer West Sacramento | 2022 | Platform acquisition | ~$83M + royalties |
 | Lavie Bio + Corteva | 2023 | AI leads + 2 yrs field data, named lead | $5M upfront + milestones |
+| Micropep + Corteva (Catalyst) | 2025 | Peptides, AI platform + bioassay + field efficacy, pre-EPA | Undisclosed; equity in $40M Series B |
+| Invaio + Peptyde Bio | 2023 | Peptide platform + IP, pre-EPA | Undisclosed (acquisition) |
+| Ginkgo + Invaio | 2026 | Peptide candidates, pre-EPA | Undisclosed (manufacturing collab) |
 | AgroSpheres + FMC | 2024 | Pre-commercial, POC data | Undisclosed |
 | AgroSpheres + BASF | 2024 | Pre-commercial, POC data | Undisclosed |
 | Biotalys partnerships | 2021–2024 | Pre-registration | Undisclosed |
@@ -150,16 +181,19 @@ What each party actually had at the time of signing — not the marketing story,
 
 ## Implications for Agros
 
-**The Lavie Bio → Corteva deal is your benchmark.** AI-discovered biological candidates, licensed to a Tier 1 ag company before commercial proof: $5M upfront. That's what an LOI at our current stage could realistically look like.
+**The Micropep → Corteva deal is the closest comp.** Peptides, AI-discovered, licensed to Corteva before EPA registration — this is the exact deal structure Agros is targeting. Entry point was **Corteva Catalyst** (Tom Greene), not Corteva's main BD team. Lavie Bio's $5M is the value benchmark, but Micropep is the structural analog.
 
-**What you need before that deal is reachable:**
-- Efficacy data (Pam's point: companies won't sign without it)
-- A specific target with validated activity (not just a platform claim)
+**What you need before either deal is reachable:**
+- Wet lab efficacy data — bioassay results at minimum, field data ideally (Pam's point, and confirmed by both Lavie Bio and Micropep precedents)
+- A specific validated candidate, not just a platform claim
+- A credible manufacturing story (fermentation? synthesis? — Ginkgo/Invaio shows this can be a separate deal)
 - EPA-registrability argument (mechanism of action that fits biopesticide criteria)
 
 **What you don't need:**
-- EPA registration (the Lavie Bio deal, AgroSpheres deals, and Biotalys pre-registration deals all show companies will sign earlier)
+- EPA registration (Micropep, Lavie Bio, AgroSpheres, Biotalys all show companies will sign earlier)
 - Commercial revenue
-- A full manufacturing process (though you need a credible story)
+- A full manufacturing process in-house (Invaio outsourced this to Ginkgo)
 
-**Platform deals (Joyn Bio, Ginkgo/Bayer) require institutional credibility** — they don't happen for two-person teams. Product/candidate deals (Lavie Bio, Bionema) are the right model.
+**The right entry point for Corteva is Corteva Catalyst** (Tom Greene, tom.greene@corteva.com), not the main biologicals team. Catalyst is Corteva's external innovation arm — designed for exactly this kind of early-stage platform deal.
+
+**Platform deals (Joyn Bio, Ginkgo/Bayer) require institutional credibility** — they don't happen for two-person teams. Peptide/candidate deals (Micropep, Lavie Bio, Bionema) are the right model.
