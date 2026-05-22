@@ -110,20 +110,40 @@ Deals signed after EPA registration was in hand.
 
 ---
 
+## Data vs. Deal Quick Reference
+
+What each party actually had at the time of signing — not the marketing story, the actual data.
+
+| Deal | Year | What they had | What the deal was for | Value |
+|---|---|---|---|---|
+| Joyn Bio (Bayer + Ginkgo JV) | 2017 | Ginkgo: organism design platform, strain library. Bayer: microbial archive + field ops. Zero efficacy data, zero products. | Form a JV to develop N-fixation microbes | $100M Series A |
+| Ginkgo + Bayer West Sacramento | 2022 | Bayer's existing biologics R&D facility + team. No new discovery, no new data. | Acquire infrastructure + lock in multi-year R&D services contract | ~$83M + royalties |
+| Lavie Bio + Corteva | 2023 | 2 years of Corteva-funded joint field trials. 12+ greenhouse-validated candidates. Named lead (LAV321) with field efficacy data. Formulation work done. AI platform was the story; wet lab closed the deal. | Exclusive license to develop + commercialize biofungicide candidates | $5M upfront ($2.5M at signing + $2.5M milestone) + undisclosed milestones + royalties |
+| AgroSpheres + FMC | 2024 | Proprietary AgriCell delivery platform. Early bioinsecticide efficacy data in-house. No EPA registration. | Multi-year research collaboration — FMC gets access to delivery platform + RNA portfolio | Undisclosed (raised $37M Series B same period) |
+| AgroSpheres + BASF | 2024 | Same as above. | Strategic partnership for market expansion | Undisclosed |
+| Biotalys (EU/US partnerships) | 2021–2024 | Efficacy data for antifungal proteins. EPA submission pending (approved Dec 2025). No registration yet at time of deals. | Distribution + co-development agreements, pre-registration | Undisclosed |
+| Vestaron + Wilbur-Ellis | 2020 | SPEAR-LEP® fully EPA-registered and commercially validated. Revenue-generating. | Semi-exclusive North America distribution | Undisclosed |
+| Syngenta + Bionema | 2022 | NemaTrident® and UniSpore® fully developed and registered products. | Acquisition of two specific product rights (not the company) | Undisclosed |
+| Biobest + BioWorks | 2023 | BioWorks: established commercial portfolio, revenue. | Full company acquisition | Undisclosed |
+| ICL + Lavie Bio | 2025 | AI platform (MicroBoost) + biofungicide candidates. No commercial product. Corteva deal had already terminated. | Full company acquisition | $18.75M |
+| Marrone Bio + Bioceres | 2022 | Both companies: fully commercial, revenue-generating portfolios. | All-stock merger | ~$50M implied |
+
+---
+
 ## Summary Table
 
 | Deal | Year | Stage at Signing | Value |
 |---|---|---|---|
 | Joyn Bio (Bayer + Ginkgo) | 2017 | Platform only | $100M JV |
 | Ginkgo + Bayer West Sacramento | 2022 | Platform acquisition | ~$83M + royalties |
-| Lavie Bio + Corteva | 2023 | AI leads, pre-wet-lab validation | $5M upfront + milestones |
+| Lavie Bio + Corteva | 2023 | AI leads + 2 yrs field data, named lead | $5M upfront + milestones |
 | AgroSpheres + FMC | 2024 | Pre-commercial, POC data | Undisclosed |
 | AgroSpheres + BASF | 2024 | Pre-commercial, POC data | Undisclosed |
 | Biotalys partnerships | 2021–2024 | Pre-registration | Undisclosed |
 | Vestaron + Wilbur-Ellis | 2020 | Post-registration | Undisclosed |
 | Syngenta + Bionema | 2022 | Post-registration | Undisclosed |
 | Biobest + BioWorks | 2023 | Commercial | Undisclosed |
-| ICL + Lavie Bio | 2025 | Platform + candidates | $18.75M |
+| ICL + Lavie Bio | 2025 | Platform + candidates, no commercial | $18.75M |
 | Marrone Bio + Bioceres | 2022 | Commercial | ~$50M |
 
 ---
