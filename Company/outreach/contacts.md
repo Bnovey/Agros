@@ -150,3 +150,144 @@ Global ag company with dedicated biosolutions division. Ex-Bayer R&D head as CTO
 | Name | Title | Phone | Email | Confidence |
 |---|---|---|---|---|
 | Adrian Percy | Chief Technology Officer | — | adrian.percy@upl-ltd.com | inferred |
+
+---
+
+## AgBiome (acquired by Ginkgo Bioworks)
+
+Research Triangle Park, NC. Microbial biopesticide platform, $166M+ raised. Email format: firstinitiallastname@agbiome.com
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Scott Uknes | CEO & Co-Founder | — | suknes@agbiome.com | inferred |
+
+---
+
+## Nufarm
+
+Email format: firstinitiallastname@nufarm.com · Grant Aldridge: ex-Locus AG CEO, now runs 3rd party alliances — ideal partnership contact.
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Grant Aldridge | Director BD & 3rd Party Alliances | 858-703-7151 | galdridge@nufarm.com | confirmed |
+| Beth Lorsbach | Global Head Innovation & Development | — | blorsbach@nufarm.com | inferred |
+
+---
+
+## BRANDT
+
+Family-owned, Springfield IL. Active biologicals investment. Email format: firstname.lastname@brandt.co
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Rick Brandt | CEO & President | — | rick.brandt@brandt.co | inferred |
+
+---
+
+## Lallemand Plant Care
+
+300-person global R&D team. Active partnership history (BrettYoung, New Edge Microbials).
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Vince Myerly | Commercial Director NA | 585-230-6301 | vmyerly@lallemand.com | confirmed |
+
+---
+
+## AMVAC (American Vanguard)
+
+32 biopesticides in portfolio. Email format: firstnamelastname@amvac.com
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Humberto Lopez | Director Technology & Innovation | — | hlopez@amvac.com | inferred |
+
+---
+
+## Bayer Crop Science (updated)
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Mike Graham | Head of R&D (appointed April 2025) | — | mike.graham@bayer.com | inferred |
+| Florian Jupe | External Innovation Biologicals (EMEA) | +1-314-694-1000 | florian.jupe@bayer.com | inferred |
+
+---
+
+## Verdesian Life Sciences
+
+Email format: firstname.lastname@vlsci.com
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Kuide Qin | R&D Lead | — | kuide.qin@vlsci.com | inferred |
+
+---
+
+## Wilbur-Ellis
+
+Major ag distributor — distributes Vestaron's SPEAR-LEP. Portfolio managers evaluate biopesticides for commercial viability.
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Jesse Rosales | Biopesticides Portfolio Manager | — | jrosales@wilburellis.com | inferred |
+
+---
+
+## Pam Marrone — Independent Advisor
+
+Serial biopesticide entrepreneur (founded Entotech, AgraQuest, Marrone Bio). Most connected person in the biopesticide industry. A warm intro from her opens any door.
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Pam Marrone | Co-Founder, Invasive Species Corp. / Advisor | 530-902-1014 | pam@invasivespeciescorporation.com | confirmed |
+
+---
+
+## BioSafe Systems
+
+East Hartford CT. BPIA member, crop protection biopesticides.
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Vijay Choppakatla | Director R&D | 410-878-7700 | vchoppakatla@biosafesystems.com | inferred |
+| Donna Bishel | Director Regulatory Affairs | — | dbishel@biosafesystems.com | confirmed |
+
+---
+
+## Valent BioSciences
+
+Libertyville IL. Bacillus-based insecticides and fungicides. HQ: 847-968-4700
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Rick Melnick | Global Brand Manager / BPIA Chair | 847-968-4700 | rmelnick@valent.com | inferred |
+
+---
+
+## Corteva Agriscience (additional)
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Sam Eathington | Chief Technology & Digital Officer | — | sam.eathington@corteva.com | inferred |
+| Brodie Workman | Biologicals Innovation Manager (Western NA) | 204-724-7197 | brodie.workman@corteva.com | confirmed |
+
+---
+
+## Acadian Plant Health
+
+Nova Scotia. Seaweed-based biostimulants + crop protection. Partners with Koppert. Email format: firstnamelastname@acadian.ca · HQ: 902-468-2840
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Nelson Gibson | President | 902-468-2840 | nelsongibson@acadian.ca | inferred |
+| Holly Little | Director R&D | — | hollylittle@acadian.ca | inferred |
+
+---
+
+## Sound Agriculture ⭐ Emeryville, CA (~15 min from Berkeley)
+
+Bay Area bioag startup, $195M raised. Focused on biostimulants/nitrogen but adjacent space — understands the computational biology angle.
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Eddy Munsi | Co-CEO | — | emunsi@sound.ag | inferred |
