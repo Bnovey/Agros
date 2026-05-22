@@ -291,3 +291,74 @@ Bay Area bioag startup, $195M raised. Focused on biostimulants/nitrogen but adja
 | Name | Title | Phone | Email | Confidence |
 |---|---|---|---|---|
 | Eddy Munsi | Co-CEO | — | emunsi@sound.ag | inferred |
+
+---
+
+## Certis Biologicals (additional)
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Warren Hragyil | Senior Director Sales North America | — | whragyil@certisbio.com | inferred |
+
+---
+
+## Pro Farm Group (additional)
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Steve Bogash | Territory Sales Manager (Northeast) | 717-877-7105 | sbogash@marronebio.com | confirmed |
+| Hal Blackmore | Territory Sales Manager (Southeast) | 904-570-0041 | hblackmore@marronebio.com | inferred |
+
+---
+
+## IFF Health & Biosciences
+
+Partnered with Boost Biomes on biofungicides (2025). Active in crop biologicals innovation. Email format: firstname.lastname@iff.com
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Michael Hyzny | Director Crop Biologicals | — | mhyzny@iff.com | inferred |
+
+---
+
+## Enko Chem
+
+Mystic CT. AI-informed sustainable crop protection. New CEO (April 2025) came from Corteva Seeds licensing — knows partnership deals. Email format: firstname.lastname@enko.ag
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Anthony Klemm | CEO | — | anthony.klemm@enko.ag | inferred |
+| Peter Stchur | SVP Portfolio | — | peter.stchur@enko.ag | inferred |
+| Karin Whiting-Burgess | Communications | — | karin.whiting-burgess@enko.ag | confirmed |
+
+---
+
+## Vive Crop Protection
+
+Canadian company, biologicals delivery platform. Confirmed CEO email. Active R&D partnerships (A&L Biological). Email: firstname@vivecrop.com OR firstname.lastname@vivecrop.com
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Darren Anderson | CEO & Co-Founder | — | darren@vivecrop.com | confirmed |
+| Doug Baumann | CTO | — | doug.baumann@vivecrop.com | inferred |
+| Jordan Dinglasan | VP Research | — | jordan.dinglasan@vivecrop.com | inferred |
+
+---
+
+## Boost Biomes
+
+Biofungicide focus — IFF partnership signed 2025. Microbial products for fungal pest control in field and post-harvest.
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Jamie Bacher | CEO & Co-Founder | — | jbacher@boostbiomes.com | inferred |
+
+---
+
+## Bionema
+
+UK-based biocontrol innovator, King's Award for Innovation 2024. Syngenta acquired one of their technologies.
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Minshad Ansari | Founder & CEO | +44-1792-606916 | mansari@bionema.com | inferred |
