@@ -8,14 +8,14 @@
 
 ## Peptide & Protein-Based Platforms
 
-| Company | Technology | Product | Target | Status |
-| :--- | :--- | :--- | :--- | :--- |
-| **PI AgSciences** | PREtec™ peptide platform | PHC68949 (foliar peptide AI) | Parasitic nematodes | EPA registered March 2026 — their 3rd AI commercialized in the U.S. |
-| **Suterra** (acquired Vestaron) | Spider venom-derived peptides | Spear® Lep | Lepidopteran pests | EPA approved 2018 |
-| **Suterra** (acquired Vestaron) | Spider venom-derived peptides | Basin | Aphids, mites, drosophila, whiteflies | EPA approved March 2024 |
-| **Biotalys** | AGROBODY™ protein-based biofungicide | EVOCA® | *Botrytis cinerea*, powdery mildew | First protein-based biofungicide EPA-approved (December 2025) |
-| **Biotalys** | AGROBODY™ (next-gen) | EVOCA NG | Broad-spectrum fungal diseases | U.S. registration expected 2028–2029 |
-| **Solasta Bio** | Nature-inspired micro-peptides (insect neuropeptide disruption) | Lead peptide candidates | Aphids, pest insects | EPA "biochemical-like" classification granted Nov 2024 — streamlines registration pathway |
+| Company                         | Technology                                                      | Product                      | Target                                | Status                                                                                    |
+| :------------------------------ | :-------------------------------------------------------------- | :--------------------------- | :------------------------------------ | :---------------------------------------------------------------------------------------- |
+| **PI AgSciences**               | PREtec™ peptide platform                                        | PHC68949 (foliar peptide AI) | Parasitic nematodes                   | EPA registered March 2026 — their 3rd AI commercialized in the U.S.                       |
+| **Suterra** (acquired Vestaron) | Spider venom-derived peptides                                   | Spear® Lep                   | Lepidopteran pests                    | EPA approved 2018                                                                         |
+| **Suterra** (acquired Vestaron) | Spider venom-derived peptides                                   | Basin                        | Aphids, mites, drosophila, whiteflies | EPA approved March 2024                                                                   |
+| **Biotalys**                    | AGROBODY™ protein-based biofungicide                            | EVOCA®                       | *Botrytis cinerea*, powdery mildew    | First protein-based biofungicide EPA-approved (December 2025)                             |
+| **Biotalys**                    | AGROBODY™ (next-gen)                                            | EVOCA NG                     | Broad-spectrum fungal diseases        | U.S. registration expected 2028–2029                                                      |
+| **Solasta Bio**                 | Nature-inspired micro-peptides (insect neuropeptide disruption) | Lead peptide candidates      | Aphids, pest insects                  | EPA "biochemical-like" classification granted Nov 2024 — streamlines registration pathway |
 
 ## Other Novel Biologics (Relevant Competitive Context)
 
