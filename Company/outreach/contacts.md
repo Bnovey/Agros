@@ -629,6 +629,6 @@ Switzerland. One of the largest baculovirus manufacturers globally. US operation
 
 Boston MA. Absorbed Joyn Bio (Bayer JV). Active in microbial ag biologicals. Email format: firstname.lastname@ginkgobioworks.com
 
-| Name | Title | Phone | Email | Confidence |
-|---|---|---|---|---|
-| Michael Miille | GM Agriculture Business Unit | — | mmiille@ginkgobioworks.com | inferred |
+| Name           | Title                        | Phone | Email                      | Confidence |
+| -------------- | ---------------------------- | ----- | -------------------------- | ---------- |
+| Michael Miille | GM Agriculture Business Unit | —     | mmiille@ginkgobioworks.com | inferred   |
