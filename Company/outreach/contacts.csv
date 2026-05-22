@@ -1,0 +1,101 @@
+first_name,last_name,title,company,region,city,state,phone,email,email_confidence
+Curt,Nelson,Western Division Sales Manager,Certis Biologicals,San Joaquin Valley,Dos Palos,CA,831-801-6292,CNelson@certisbio.com,confirmed
+Dave,Silva,Regional Manager,Certis Biologicals,Central Coast,Nipomo,CA,805-680-6448,DSilva@certisbio.com,confirmed
+Jeremy,Wagnitz,Senior Field Development Manager,Certis Biologicals,"California, Arizona, Nevada, Hawaii",San Luis Obispo,CA,820-203-1593,JWagnitz@certisbio.com,confirmed
+Tommy,Van Groningen,Regional Sales Manager,Certis Biologicals,Northern California/Nevada,Ripon,CA,530-953-4474,TVangroningen@certisbio.com,confirmed
+Greg,Comeau,Regional Manager,Certis Biologicals,Mid Atlantic,Langdon,NH,603-306-7298,GComeau@certisbio.com,confirmed
+Amanda,Eade,Regional Manager,Certis Biologicals,Southeast,Raleigh,NC,919-537-5437,AEade@certisbio.com,confirmed
+Karly,Regan,Field Development Manager,Certis Biologicals,Northeast,Smithsburg,MD,410-940-2447,KRegan@certisbio.com,confirmed
+Shaun,Berry,VP Research & Development,Certis Biologicals,,,MD,,SBerry@certisbio.com,inferred
+Juan,Estupinan,CEO & President,Vestaron,,,Durham NC,919-694-1022,jestupinan@vestaron.com,inferred
+Steve,Betz,VP Communications,Vestaron,,,,515-707-6096,sbetz@vestaron.com,confirmed
+Ben,Cicora,SVP Sales & Marketing,Vestaron,,,,269-372-3108,bcicora@vestaron.com,confirmed
+Daniel,Peck,Director International Field Development,Vestaron,,Geneva,NY,,dpeck@vestaron.com,inferred
+Dawn,Calibeo,VP Field Development,Vestaron,,Yuma,AZ,928-920-8625,dcalibeo@vestaron.com,confirmed
+Kalle,Virta,Director R&D,Pro Farm Group,,,Finland,,kvirta@marronebio.com,inferred
+Karen,Mazor,Director Investor & Public Relations,Evogene,,,Israel,,karen.mazor@evogene.com,confirmed
+Amy,O'Shea,CEO,Invaio Sciences,,,Cambridge MA,,aoshea@invaio.com,inferred
+Magalie,Guilhabert,Chief Science Officer,Invaio Sciences,,,Cambridge MA,,mguilhabert@invaio.com,inferred
+Benedicte,Flambard,VP Plant Health,FMC Corporation,,,Philadelphia PA,215-299-6000,benedicte.flambard@fmc.com,inferred
+Brodie,Workman,Biologicals Innovation Manager,Corteva Agriscience,Western NA,,,204-724-7197,brodie.workman@corteva.com,confirmed
+Corey,Huck,Global Head of Biologicals,Syngenta,,,Basel Switzerland,,corey.huck@syngenta.com,inferred
+Jerome,Cassayre,Head of Biologicals Research,Syngenta,,,Basel Switzerland,,jerome.cassayre@syngenta.com,inferred
+Florian,Jupe,External Innovation Biologicals,Bayer Crop Science,EMEA,,,+1-314-694-1000,florian.jupe@bayer.com,inferred
+Susan,Turner,SVP Research & Development,BioConsortia,,Davis,CA,530-564-5570,sturner@bioconsortia.com,inferred
+Juli,Jessen,CEO,Gowan Company,,,Yuma AZ,800-883-1844,jjessen@gowanco.com,inferred
+Kenny,Roche,Agronomic R&D Lead USA,Koppert Biological Systems,,,Oxnard CA,800-928-8827,kroche@koppertus.com,inferred
+Lara,Ramaekers,Business Development Director Biopesticides,Biobest Group,,,Belgium,,lara.ramaekers@biobestgroup.com,inferred
+Felix,Wackers,R&D Director,Biobest Group,,,Belgium,,felix.wackers@biobestgroup.com,inferred
+Adrian,Percy,Chief Technology Officer,UPL / NPP Biosolutions,,,Research Triangle NC,,adrian.percy@upl-ltd.com,inferred
+Scott,Uknes,CEO & Co-Founder,AgBiome,,,Research Triangle NC,,suknes@agbiome.com,inferred
+Grant,Aldridge,Director BD & 3rd Party Alliances,Nufarm,,Morrisville,NC,858-703-7151,galdridge@nufarm.com,confirmed
+Beth,Lorsbach,Global Head Innovation & Development,Nufarm,,Indianapolis,IN,,blorsbach@nufarm.com,inferred
+Rick,Brandt,CEO & President,BRANDT,,Springfield,IL,,rick.brandt@brandt.co,inferred
+Vince,Myerly,Commercial Director NA,Lallemand Plant Care,,,,,vmyerly@lallemand.com,confirmed
+Humberto,Lopez,Director Technology & Innovation,AMVAC,,Chino Hills,CA,,hlopez@amvac.com,inferred
+Mike,Graham,Head of R&D,Bayer Crop Science,,,,,mike.graham@bayer.com,inferred
+Kuide,Qin,R&D Lead,Verdesian Life Sciences,,,,,kuide.qin@vlsci.com,inferred
+Jesse,Rosales,Biopesticides Portfolio Manager,Wilbur-Ellis,,,,,jrosales@wilburellis.com,inferred
+Pam,Marrone,Co-Founder & Executive Chair,Invasive Species Corporation,,,Davis CA,530-902-1014,pam@invasivespeciescorporation.com,confirmed
+Vijay,Choppakatla,Director R&D,BioSafe Systems,,,East Hartford CT,410-878-7700,vchoppakatla@biosafesystems.com,inferred
+Donna,Bishel,Director Regulatory Affairs,BioSafe Systems,,,East Hartford CT,,dbishel@biosafesystems.com,confirmed
+Rick,Melnick,Global Brand Manager / BPIA Chair,Sumitomo Biorational,,,Libertyville IL,847-968-4750,rick.melnick@valentbiosciences.com,confirmed
+Steve,Tatum,Media Contact,Sumitomo Biorational,,,Libertyville IL,925-951-3164,steve.tatum@valent.com,confirmed
+Salman,Mir,Head AgroSolutions Division,Sumitomo Biorational,,,Libertyville IL,,salman.mir@sumitomobiorational.com,inferred
+Holly,Little,Director R&D,Acadian Plant Health,,,Nova Scotia Canada,902-468-2840,hollylittle@acadian.ca,inferred
+Nelson,Gibson,President,Acadian Plant Health,,,Nova Scotia Canada,902-468-2840,nelsongibson@acadian.ca,inferred
+Sam,Eathington,Chief Technology & Digital Officer,Corteva Agriscience,,,Indianapolis IN,,sam.eathington@corteva.com,inferred
+Eddy,Munsi,Co-CEO,Sound Agriculture,,,Emeryville CA,,emunsi@sound.ag,inferred
+Warren,Hragyil,Senior Director Sales North America,Certis Biologicals,,,Nampa ID,,whragyil@certisbio.com,inferred
+Steve,Bogash,Territory Sales Manager,Pro Farm Group,Northeast,,PA,717-877-7105,sbogash@marronebio.com,confirmed
+Hal,Blackmore,Territory Sales Manager,Pro Farm Group,Southeast,,,904-570-0041,hblackmore@marronebio.com,inferred
+Michael,Hyzny,Director Crop Biologicals,IFF,,,,,mhyzny@iff.com,inferred
+Anthony,Klemm,CEO,Enko Chem,,,Mystic CT,,anthony.klemm@enko.ag,inferred
+Karin,Whiting-Burgess,Communications,Enko Chem,,,,,karin.whiting-burgess@enko.ag,confirmed
+Peter,Stchur,SVP Portfolio,Enko Chem,,,,,peter.stchur@enko.ag,inferred
+Darren,Anderson,CEO & Co-Founder,Vive Crop Protection,,,Toronto Canada,,darren@vivecrop.com,confirmed
+Doug,Baumann,CTO,Vive Crop Protection,,,Toronto Canada,,doug.baumann@vivecrop.com,inferred
+Jordan,Dinglasan,VP Research,Vive Crop Protection,,,Toronto Canada,,jordan.dinglasan@vivecrop.com,inferred
+Jamie,Bacher,CEO & Co-Founder,Boost Biomes,,,,,jbacher@boostbiomes.com,inferred
+Minshad,Ansari,Founder & CEO,Bionema,,,Swansea UK,+44-1792-606916,mansari@bionema.com,inferred
+Georg,Goeres,CEO,Micropep Technologies,,,Toulouse France,,georg.goeres@micro-pep.com,inferred
+Marta,Ruiz,General Manager,AlphaBio Control,,,Cambridge UK,,mruiz@alphabiocontrol.com,inferred
+Brent,Lackey,Seedcare & Biologicals Product Marketing Head NA,Syngenta,,,,,blackey@syngenta.com,inferred
+Chris,Abbott,CEO,Pivot Bio,,,Wayzata MN,,cabbott@pivotbio.com,confirmed
+Rafael,Souza,CEO & Co-Founder,Symbiomics,,,Florianopolis Brazil,,rafael.souza@symbiomics.com.br,inferred
+Lisa,Hoffman,Director Development Biology & External Partnerships,FMC Corporation,,,Philadelphia PA,215-299-6000,lhoffman@fmc.com,inferred
+Marcus,Meadows-Smith,CEO,BioConsortia,,Davis,CA,530-574-9535,mmeadows-smith@bioconsortia.com,confirmed
+Sarah,McKenna,SVP Business Development,BioConsortia,,Davis,CA,530-564-5570,smckenna@bioconsortia.com,inferred
+Neil,Bentley,VP Market Management NA,BASF Agricultural Solutions,,,Durham NC,,neil.bentley@basf.com,inferred
+Rene,Ruiter,Director North America,Koppert Biological Systems,,,Howell MI,800-928-8827,rene.ruiter@koppert.com,inferred
+Michael,Miille,GM Agriculture Business Unit,Ginkgo Bioworks,,,Boston MA,,mmiille@ginkgobioworks.com,inferred
+Tom,Greene,Senior Director Corteva Catalyst,Corteva Agriscience,,,Indianapolis IN,,tom.greene@corteva.com,inferred
+Matthew,Pye,Biologicals Subject Matter Expert,FMC Corporation,,,Philadelphia PA,215-299-6000,matthew.pye@fmc.com,inferred
+Padma,Commuri,Director R&D Agricultural Solutions NA,BASF Agricultural Solutions,,,Durham NC,,padma.commuri@basf.com,inferred
+Amit,Vasavada,SVP R&D & CTO,Pro Farm Group,,,Raleigh NC,,avasavada@marronebio.com,inferred
+Clyde,Montevirgen,VP Business Development,Pro Farm Group,,,Raleigh NC,530-750-2800,cmontevirgen@marronebio.com,inferred
+Matti,Tiainen,Managing Director NA & Europe / President ProFarm,Pro Farm Group / Bioceres,,,,,mtiainen@marronebio.com,inferred
+Federico,Trucco,CEO,Bioceres Crop Solutions,,,Argentina,,ftrucco@biocerescrops.com,inferred
+Elinor,Erez,VP R&D,ICL Growing Solutions (Lavie Bio),,,Israel,,elinor.erez@icl-group.com,inferred
+Payam,Pourtaheri,CEO & Co-Founder,AgroSpheres,,,Charlottesville VA,,payam@agrospheres.com,inferred
+Ameer,Shakeel,CTO & Co-Founder,AgroSpheres,,,Charlottesville VA,,ameer@agrospheres.com,inferred
+Jason,Ward,Plant Biosolutions Commercial Lead NA,Novonesis,,,,,jason.ward@novonesis.com,inferred
+Eric,Lichtenheld,CEO,Heliae Agriculture,,,Gilbert AZ,,elichtenheld@heliae.com,inferred
+Matthew,Saunders,VP Research & Development,Heliae Agriculture,,,Gilbert AZ,,msaunders@heliae.com,inferred
+Gustavo,Gonzalez,VP Commercial Business Development,AgBiome,,,Durham NC,,ggonzalez@agbiome.com,inferred
+Natarajan,Balachander,Business Development Director,AgBiome,,,Durham NC,,nbalachander@agbiome.com,inferred
+Bill,Foster,CEO,BioWorks,,,Victor NY,800-877-9443,bfoster@bioworksinc.com,inferred
+Troy,Bettner,VP Sales Marketing & Technical Services,BioWorks,,,Victor NY,,Troy.Bettner@bioworksinc.com,confirmed
+Camilla,Corsi,Global Head Crop Protection R&D,Syngenta,,,Basel Switzerland,,camilla.corsi@syngenta.com,inferred
+Jonathan,Brown,Global Head Seedcare & Biologicals,Syngenta,,,Basel Switzerland,,jonathan.brown@syngenta.com,inferred
+Mai,Komatsu,Open Innovation Subject Matter Expert,Corteva Agriscience,,,Indianapolis IN,,mai.komatsu@corteva.com,inferred
+Jim,Petta,President EcoFlora Biologicals BU,Gowan Company,,,Yuma AZ,,jpetta@gowanco.com,inferred
+Scott,Lowman,Director Plant Endophyte & Applied Research,Indigo Ag,,,Boston MA,,slowman@indigoag.com,inferred
+Scott,Addy,VP Branded Technologies & Biological Solutions,Wilbur-Ellis,,,,,saddy@wilburellis.com,inferred
+Shannon,Wentz,Global Director Communications,Acadian Plant Health,,,Nova Scotia Canada,403-973-2716,swentz@acadian.ca,confirmed
+Emily,Stoutenborough,Media Contact,Valent BioSciences,,,Libertyville IL,925-532-6284,emily.stoutenborough@valentbiosciences.com,confirmed
+Jeff,Divan,Sr Director Agronomy,Sound Agriculture,,,Emeryville CA,,j.divan@sound.ag,inferred
+Adam,Litle,Co-CEO,Sound Agriculture,,,Emeryville CA,,a.litle@sound.ag,inferred
+Clare,Doyle,CEO,Verdesian Life Sciences,,,,,clare.doyle@vlsci.com,inferred
+Ben,Barlow,Managing Director,New Edge Microbials,,,Australia,,bbarlow@nem.com.au,inferred
+Daniel,Zingg,CEO,Andermatt Group AG,,,Switzerland,+41-62-917-5125,d.zingg@andermatt.com,inferred
