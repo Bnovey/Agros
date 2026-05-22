@@ -23,12 +23,12 @@ Email confidence: **confirmed** = sourced directly, **inferred** = derived from 
 
 HQ phone: 919-694-1022
 
-| Name | Title | Phone | Email | Confidence |
-|---|---|---|---|---|
-| Juan Estupinan | CEO & President | 919-694-1022 | jestupinan@vestaron.com | inferred |
-| Dawn Calibeo | VP Field Development | 928-920-8625 | dcalibeo@vestaron.com | confirmed |
-| Ben Cicora | SVP Sales & Marketing | — | bcicora@vestaron.com | confirmed |
-| Steve Betz | Sales | — | sbetz@vestaron.com | confirmed |
+| Name           | Title                 | Phone        | Email                   | Confidence |
+| -------------- | --------------------- | ------------ | ----------------------- | ---------- |
+| Juan Estupinan | CEO & President       | 919-694-1022 | jestupinan@vestaron.com | inferred   |
+| Dawn Calibeo   | VP Field Development  | 928-920-8625 | dcalibeo@vestaron.com   | confirmed  |
+| Ben Cicora     | SVP Sales & Marketing | —            | bcicora@vestaron.com    | confirmed  |
+| Steve Betz     | Sales                 | —            | sbetz@vestaron.com      | confirmed  |
 
 ---
 
@@ -58,3 +58,54 @@ General: hello@invaio.com
 |---|---|---|---|---|
 | Amy O'Shea | CEO | — | aoshea@invaio.com | inferred |
 | Magalie Guilhabert | Chief Science Officer | — | mguilhabert@invaio.com | inferred |
+
+---
+
+## FMC Corporation
+
+HQ phone: 215-299-6000 · Email format: firstname.lastname@fmc.com
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Bénédicte Flambard | VP Plant Health (Biologicals) | — | benedicte.flambard@fmc.com | inferred |
+
+---
+
+## Corteva Agriscience
+
+Open Innovation portal: openinnovation.corteva.com · Email format: firstname.lastname@corteva.com
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Brodie Workman | Biologicals Innovation Manager (Western NA) | 204-724-7197 | brodie.workman@corteva.com | confirmed |
+
+---
+
+## Syngenta Biologicals
+
+Email format: firstname.lastname@syngenta.com
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Corey Huck | Global Head of Biologicals | — | corey.huck@syngenta.com | inferred |
+| Jérôme Cassayre | Head of Biologicals Research | — | jerome.cassayre@syngenta.com | inferred |
+
+---
+
+## Bayer Crop Science
+
+HQ phone: +1-314-694-1000 · Open Innovation: innovate.bayer.com · Email format: firstname.lastname@bayer.com
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Florian Jupe | External Innovation Biologicals & Negotiations (EMEA) | — | florian.jupe@bayer.com | inferred |
+
+---
+
+## BioConsortia ⭐ Davis, CA (~1 hr from Berkeley)
+
+HQ phone: 530-564-5570 · General: info@bioconsortia.com
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Susan Turner | SVP Research & Development | 530-564-5570 | sturner@bioconsortia.com | inferred |
