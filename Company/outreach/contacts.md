@@ -58,10 +58,10 @@ Publicly traded (NASDAQ: EVGN). Computational biology platform for ag — closes
 
 General: hello@invaio.com
 
-| Name | Title | Phone | Email | Confidence |
-|---|---|---|---|---|
-| Amy O'Shea | CEO | — | aoshea@invaio.com | inferred |
-| Magalie Guilhabert | Chief Science Officer | — | mguilhabert@invaio.com | inferred |
+| Name | Title | Phone | Email | Confidence | Status |
+|---|---|---|---|---|---|
+| Amy O'Shea | CEO | — | aoshea@invaio.com | inferred | — |
+| Magalie Guilhabert | Chief Science Officer | — | mguilhabert@invaio.com | inferred | ✅ emailed 2026-05-22 |
 
 ---
 
@@ -140,10 +140,10 @@ Family-owned, Yuma AZ. Active biopesticide portfolio, known for external partner
 
 Belgian biocontrol company, acquired BioWorks. Has dedicated biopesticide BD director. Email format: firstname.lastname@biobestgroup.com
 
-| Name | Title | Phone | Email | Confidence |
-|---|---|---|---|---|
-| Lara Ramaekers | Business Development Director, Biopesticides | — | lara.ramaekers@biobestgroup.com | inferred |
-| Felix Wäckers | R&D Director | — | felix.wackers@biobestgroup.com | inferred |
+| Name | Title | Phone | Email | Confidence | Status |
+|---|---|---|---|---|---|
+| Lara Ramaekers | Business Development Director, Biopesticides | — | lara.ramaekers@biobestgroup.com | inferred | ✅ emailed 2026-05-22 |
+| Felix Wäckers | R&D Director | — | felix.wackers@biobestgroup.com | inferred | — |
 
 ---
 
@@ -171,10 +171,10 @@ Research Triangle Park, NC. Microbial biopesticide platform, $166M+ raised. Emai
 
 Email format: firstinitiallastname@nufarm.com · Grant Aldridge: ex-Locus AG CEO, now runs 3rd party alliances — ideal partnership contact.
 
-| Name | Title | Phone | Email | Confidence |
-|---|---|---|---|---|
-| Grant Aldridge | Director BD & 3rd Party Alliances | 858-703-7151 | galdridge@nufarm.com | confirmed |
-| Beth Lorsbach | Global Head Innovation & Development | — | blorsbach@nufarm.com | inferred |
+| Name | Title | Phone | Email | Confidence | Status |
+|---|---|---|---|---|---|
+| Grant Aldridge | Director BD & 3rd Party Alliances | 858-703-7151 | galdridge@nufarm.com | confirmed | ✅ emailed 2026-05-22 |
+| Beth Lorsbach | Global Head Innovation & Development | — | blorsbach@nufarm.com | inferred | — |
 
 ---
 
@@ -453,12 +453,12 @@ Email format: firstname.lastname@basf.com
 
 HQ phone: 530-750-2800 · Email format: firstinitiallastname@marronebio.com
 
-| Name | Title | Phone | Email | Confidence |
-|---|---|---|---|---|
-| Amit Vasavada | SVP R&D & CTO | — | avasavada@marronebio.com | inferred |
-| Clyde Montevirgen | VP Business Development | 530-750-2800 | cmontevirgen@marronebio.com | inferred |
-| Matti Tiainen | Managing Director NA & Europe / President ProFarm | — | mtiainen@marronebio.com | inferred |
-| Federico Trucco | CEO, Bioceres Crop Solutions | — | ftrucco@biocerescrops.com | inferred |
+| Name | Title | Phone | Email | Confidence | Status |
+|---|---|---|---|---|---|
+| Amit Vasavada | SVP R&D & CTO | — | avasavada@marronebio.com | inferred | — |
+| Clyde Montevirgen | VP Business Development | 530-750-2800 | cmontevirgen@marronebio.com | inferred | ✅ emailed 2026-05-22 |
+| Matti Tiainen | Managing Director NA & Europe / President ProFarm | — | mtiainen@marronebio.com | inferred | — |
+| Federico Trucco | CEO, Bioceres Crop Solutions | — | ftrucco@biocerescrops.com | inferred | — |
 
 ---
 
@@ -466,9 +466,9 @@ HQ phone: 530-750-2800 · Email format: firstinitiallastname@marronebio.com
 
 ICL acquired Lavie Bio from Evogene July 2025. Integrated into ICL Growing Solutions Global R&D. Email format: firstname.lastname@icl-group.com
 
-| Name | Title | Phone | Email | Confidence |
-|---|---|---|---|---|
-| Elinor Erez | VP R&D, Growing Solutions | — | elinor.erez@icl-group.com | inferred |
+| Name | Title | Phone | Email | Confidence | Status |
+|---|---|---|---|---|---|
+| Elinor Erez | VP R&D, Growing Solutions | — | elinor.erez@icl-group.com | inferred | ✅ emailed 2026-05-22 |
 
 ---
 
@@ -508,10 +508,10 @@ Gilbert AZ. Microalgal crop biologicals (PhycoTerra® brand). ~80 employees. Ema
 
 Research Triangle Park NC. Microbial biopesticide platform. Email format: firstinitiallastname@agbiome.com
 
-| Name | Title | Phone | Email | Confidence |
-|---|---|---|---|---|
-| Gustavo Gonzalez | VP Commercial Business Development | — | ggonzalez@agbiome.com | inferred |
-| Natarajan Balachander | Business Development Director | — | nbalachander@agbiome.com | inferred |
+| Name | Title | Phone | Email | Confidence | Status |
+|---|---|---|---|---|---|
+| Gustavo Gonzalez | VP Commercial Business Development | — | ggonzalez@agbiome.com | inferred | ✅ emailed 2026-05-22 |
+| Natarajan Balachander | Business Development Director | — | nbalachander@agbiome.com | inferred | ✅ emailed 2026-05-22 |
 
 ---
 
@@ -539,9 +539,9 @@ Basel Switzerland + Orangeburg SC (US manufacturing). Email format: firstname.la
 
 ## Corteva (additional)
 
-| Name | Title | Phone | Email | Confidence |
-|---|---|---|---|---|
-| Mai Komatsu | Open Innovation Subject Matter Expert | — | mai.komatsu@corteva.com | inferred |
+| Name | Title | Phone | Email | Confidence | Status |
+|---|---|---|---|---|---|
+| Mai Komatsu | Open Innovation Subject Matter Expert | — | mai.komatsu@corteva.com | inferred | ✅ emailed 2026-05-22 |
 
 ---
 
