@@ -6,16 +6,16 @@ Email confidence: **confirmed** = sourced directly, **inferred** = derived from 
 
 ## Certis Biologicals
 
-| Name | Title | Region | Phone | Email | Confidence |
-|---|---|---|---|---|---|
-| Shaun Berry | VP Research & Development | MD | — | SBerry@certisbio.com | inferred |
-| Curt Nelson | Western Division Sales Manager | San Joaquin Valley | 831-801-6292 | CNelson@certisbio.com | confirmed |
-| Dave Silva | Regional Manager | Central Coast | 805-680-6448 | DSilva@certisbio.com | confirmed |
-| Jeremy Wagnitz | Senior Field Development Manager | CA / AZ / NV / HI | 820-203-1593 | JWagnitz@certisbio.com | confirmed |
-| Tommy Van Groningen | Regional Sales Manager | Northern CA / NV | 530-953-4474 | TVangroningen@certisbio.com | confirmed |
-| Greg Comeau | Regional Manager | Mid Atlantic | 603-306-7298 | GComeau@certisbio.com | confirmed |
-| Amanda Eade | Regional Manager | Southeast | 919-537-5437 | AEade@certisbio.com | confirmed |
-| Karly Regan | Field Development Manager | Northeast | 410-940-2447 | KRegan@certisbio.com | confirmed |
+| Name | Title | Region | Phone | Email | Confidence | Status |
+|---|---|---|---|---|---|---|
+| Shaun Berry | VP Research & Development | MD | — | SBerry@certisbio.com | inferred | ✅ emailed 2026-05-22 |
+| Curt Nelson | Western Division Sales Manager | San Joaquin Valley | 831-801-6292 | CNelson@certisbio.com | confirmed | — |
+| Dave Silva | Regional Manager | Central Coast | 805-680-6448 | DSilva@certisbio.com | confirmed | — |
+| Jeremy Wagnitz | Senior Field Development Manager | CA / AZ / NV / HI | 820-203-1593 | JWagnitz@certisbio.com | confirmed | — |
+| Tommy Van Groningen | Regional Sales Manager | Northern CA / NV | 530-953-4474 | TVangroningen@certisbio.com | confirmed | — |
+| Greg Comeau | Regional Manager | Mid Atlantic | 603-306-7298 | GComeau@certisbio.com | confirmed | — |
+| Amanda Eade | Regional Manager | Southeast | 919-537-5437 | AEade@certisbio.com | confirmed | — |
+| Karly Regan | Field Development Manager | Northeast | 410-940-2447 | KRegan@certisbio.com | confirmed | — |
 
 ---
 
