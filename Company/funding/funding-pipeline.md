@@ -53,32 +53,32 @@ Work through these in order. Non-dilutive and Berkeley-native first, then rollin
 
 ## Full Program Table
 
-| Program | Type | Funding | Deadline | Undergrad OK? | Notes |
-|---|---|---|---|---|---|
-| **LSEC Venture Grant** | Grant (non-dilutive) | $100K | Rolling | Yes — Berkeley academic teams | First money in; zero dilution |
-| **NSF I-Corps** | Training grant | ~$40K net | Rolling | Yes | Customer discovery; strengthens SBIR Phase II |
-| **IndieBio / SOSV SF** | Accelerator | $250K for 8% | Rolling | Yes | Research-stage bio is core; wet lab (BSL-2) access |
-| **Afore Capital** | VC | $500K–$2M | Rolling | Yes — no graduation req | Thesis-agnostic; backs "pre-traction, pre-everything"; fresh $185M fund |
-| **Afore Founders-in-Residence** | VC program | $100K+ | Summer 2026 cohort | Yes | Ideation-phase; 10-week structured program |
-| **NFX Signal** | VC | $1–3M | Rolling | Yes | Top agtech pre-seed; cold apply via signal.nfx.com |
-| **a16z Speedrun** | Accelerator | Up to $1M + $5M credits | SR007: May 17, 2026 | Yes — idea-stage ok | Bets on founder backgrounds, not traction; watch for SR008 |
-| **NSF SBIR Phase I** | Grant (non-dilutive) | Up to $305K | ~May–Jun 2026 | Yes | "Plant protection" + "biological technologies" subtopics |
-| **USDA SBIR Phase I (NIFA)** | Grant (non-dilutive) | Up to $175K | ~May–Jun 2026 | Yes | "Biological pest control delivery mechanisms" priority |
-| **Berkeley SkyDeck** | Accelerator | $200K for 7.5% | ~Aug 2026 (Batch 23) | Yes — any UC student | Bio Track includes lab space; home-field advantage |
-| **Mayfield AI Garage** | Accelerator | Undisclosed | ~Jul–Aug 2026 | Yes — current Berkeley students | AI-focused cohort; Mayfield VC access; via SkyDeck |
-| **Free Ventures** | Student incubator | Non-dilutive | ~Aug 2026 | Yes — explicitly accepts undergrads | Zero equity; requires Cal founder |
-| **Startup@Berkeley** | Student accelerator | Non-dilutive | ~Aug 2026 | Yes | Campus resources + mentorship; no product required |
-| **Y Combinator — Early Decision** | Accelerator | $500K for 7% | ~Oct 2026 (for S27) | Yes — built for this | Apply fall senior year; funded now, join batch after graduation |
-| **Nucleate Activator (Berkeley)** | Student biotech | Non-dilutive | ~Oct 2026 | Yes | Company formation program; apply before you have anything |
-| **Cyclotron Road / Activate** | Fellowship | $100K + stipend | ~Oct 2026 | Yes | 2-year at LBL; IP retained; research-stage |
-| **Fifty Years** | VC | Pre-seed | Rolling | Yes | Deep tech + synbio + climate; 72 PhD founders in portfolio |
-| **Breakout Ventures** | VC | ~$350K convertible | Rolling | Yes | "Too early for traditional VCs" thesis |
-| **Cavallo Ventures** | VC | Undisclosed | Rolling | Yes | Explicitly backs peptide-based biopesticides — direct fit |
-| **Acre Venture Partners** | VC | $500K–$1.5M | Rolling | Yes | Agrifoodtech focused; $140M Fund III; AI/ML in ag |
-| **AgFunder** | VC | $500K–$5M | Rolling | Yes | Global agrifoodtech; $170M AUM; backs biologicals |
-| **Boost VC** | VC | $500K | Rolling | Yes — no graduation req | Deep tech + biotech; low-process |
-| **Wireframe Ventures** | VC | Pre-seed | Rolling | Yes | Agtech specialist |
-| **a16z Bio + Health** | VC | $700M fund | Rolling | Yes — warm intro needed | Not first call at pre-seed; build pipeline via IndieBio/SkyDeck |
-| **AgLaunch365** | AgTech accelerator | $100K for 10% | ~Mid-2026 for 2027 | Yes | Regenerative Biologicals track; direct fit |
-| **Haas Trione Fund** | Grant | $5K | ~Fall 2026 | Yes — Berkeley students | Small but non-dilutive; low effort |
-| **Y Combinator — regular** | Accelerator | $500K for 7% | S26 likely closed; W27 ~Oct 2026 | Yes | Apply every cycle until in |
+| Program                           | Type                 | Funding                 | Deadline                         | Undergrad OK?                       | Notes                                                                   |
+| --------------------------------- | -------------------- | ----------------------- | -------------------------------- | ----------------------------------- | ----------------------------------------------------------------------- |
+| **LSEC Venture Grant**            | Grant (non-dilutive) | $100K                   | Rolling                          | Yes — Berkeley academic teams       | First money in; zero dilution                                           |
+| **NSF I-Corps**                   | Training grant       | ~$40K net               | Rolling                          | Yes                                 | Customer discovery; strengthens SBIR Phase II                           |
+| **IndieBio / SOSV SF**            | Accelerator          | $250K for 8%            | Rolling                          | Yes                                 | Research-stage bio is core; wet lab (BSL-2) access                      |
+| **Afore Capital**                 | VC                   | $500K–$2M               | Rolling                          | Yes — no graduation req             | Thesis-agnostic; backs "pre-traction, pre-everything"; fresh $185M fund |
+| **Afore Founders-in-Residence**   | VC program           | $100K+                  | Summer 2026 cohort               | Yes                                 | Ideation-phase; 10-week structured program                              |
+| **NFX Signal**                    | VC                   | $1–3M                   | Rolling                          | Yes                                 | Top agtech pre-seed; cold apply via signal.nfx.com                      |
+| **a16z Speedrun**                 | Accelerator          | Up to $1M + $5M credits | SR007: May 17, 2026              | Yes — idea-stage ok                 | Bets on founder backgrounds, not traction; watch for SR008              |
+| **NSF SBIR Phase I**              | Grant (non-dilutive) | Up to $305K             | ~May–Jun 2026                    | Yes                                 | "Plant protection" + "biological technologies" subtopics                |
+| **USDA SBIR Phase I (NIFA)**      | Grant (non-dilutive) | Up to $175K             | ~May–Jun 2026                    | Yes                                 | "Biological pest control delivery mechanisms" priority                  |
+| **Berkeley SkyDeck**              | Accelerator          | $200K for 7.5%          | ~Aug 2026 (Batch 23)             | Yes — any UC student                | Bio Track includes lab space; home-field advantage                      |
+| **Mayfield AI Garage**            | Accelerator          | Undisclosed             | ~Jul–Aug 2026                    | Yes — current Berkeley students     | AI-focused cohort; Mayfield VC access; via SkyDeck                      |
+| **Free Ventures**                 | Student incubator    | Non-dilutive            | ~Aug 2026                        | Yes — explicitly accepts undergrads | Zero equity; requires Cal founder                                       |
+| **Startup@Berkeley**              | Student accelerator  | Non-dilutive            | ~Aug 2026                        | Yes                                 | Campus resources + mentorship; no product required                      |
+| **Y Combinator — Early Decision** | Accelerator          | $500K for 7%            | ~Oct 2026 (for S27)              | Yes — built for this                | Apply fall senior year; funded now, join batch after graduation         |
+| **Nucleate Activator (Berkeley)** | Student biotech      | Non-dilutive            | ~Oct 2026                        | Yes                                 | Company formation program; apply before you have anything               |
+| **Cyclotron Road / Activate**     | Fellowship           | $100K + stipend         | ~Oct 2026                        | Yes                                 | 2-year at LBL; IP retained; research-stage                              |
+| **Fifty Years**                   | VC                   | Pre-seed                | Rolling                          | Yes                                 | Deep tech + synbio + climate; 72 PhD founders in portfolio              |
+| **Breakout Ventures**             | VC                   | ~$350K convertible      | Rolling                          | Yes                                 | "Too early for traditional VCs" thesis                                  |
+| **Cavallo Ventures**              | VC                   | Undisclosed             | Rolling                          | Yes                                 | Explicitly backs peptide-based biopesticides — direct fit               |
+| **Acre Venture Partners**         | VC                   | $500K–$1.5M             | Rolling                          | Yes                                 | Agrifoodtech focused; $140M Fund III; AI/ML in ag                       |
+| **AgFunder**                      | VC                   | $500K–$5M               | Rolling                          | Yes                                 | Global agrifoodtech; $170M AUM; backs biologicals                       |
+| **Boost VC**                      | VC                   | $500K                   | Rolling                          | Yes — no graduation req             | Deep tech + biotech; low-process                                        |
+| **Wireframe Ventures**            | VC                   | Pre-seed                | Rolling                          | Yes                                 | Agtech specialist                                                       |
+| **a16z Bio + Health**             | VC                   | $700M fund              | Rolling                          | Yes — warm intro needed             | Not first call at pre-seed; build pipeline via IndieBio/SkyDeck         |
+| **AgLaunch365**                   | AgTech accelerator   | $100K for 10%           | ~Mid-2026 for 2027               | Yes                                 | Regenerative Biologicals track; direct fit                              |
+| **Haas Trione Fund**              | Grant                | $5K                     | ~Fall 2026                       | Yes — Berkeley students             | Small but non-dilutive; low effort                                      |
+| **Y Combinator — regular**        | Accelerator          | $500K for 7%            | S26 likely closed; W27 ~Oct 2026 | Yes                                 | Apply every cycle until in                                              |
