@@ -1,4 +1,4 @@
 
 Hi Diana, 
 
-Over the past week we've talked 
+On Tuesday, we met with Inviao. Over the past week we've talked the following individuals. 
