@@ -371,11 +371,15 @@ UK-based biocontrol innovator, King's Award for Innovation 2024. Syngenta acquir
 
 ## Micropep Technologies
 
-Toulouse, France. Micropeptide-based crop protection — same core approach as Agros (small peptides as crop protection AIs). Most directly analogous company in the world. New CEO Georg Goeres as of July 2025.
+Toulouse, France + Cambridge MA + RTP NC. Micropeptide-based crop protection — same core approach as Agros (small peptides as crop protection AIs). Most directly analogous company in the world. New CEO Georg Goeres as of July 2025. General: contact@micro-pep.com · Email format: firstname.lastname@micro-pep.com (60%), firstname@micro-pep.com (28%)
 
 | Name | Title | Phone | Email | Confidence |
 |---|---|---|---|---|
 | Georg Goeres | CEO | — | georg.goeres@micro-pep.com | inferred |
+| Gustavo C. Gonzalez | Chief Business Officer | — | gustavo.gonzalez@micro-pep.com | inferred |
+| Mikael Courbot | Chief Technical Officer | — | mikael.courbot@micro-pep.com | inferred |
+| Kim White | Chief Program Officer | — | kim.white@micro-pep.com | inferred |
+| Thomas Laurent | Founder & Advisor to the Board | — | thomas.laurent@micro-pep.com | inferred |
 
 ---
 
@@ -637,3 +641,69 @@ Boston MA. Absorbed Joyn Bio (Bayer JV). Active in microbial ag biologicals. Ema
 | Name           | Title                        | Phone | Email                      | Confidence | Status |
 | -------------- | ---------------------------- | ----- | -------------------------- | ---------- | ------ |
 | Michael Miille | GM Agriculture Business Unit | —     | mmiille@ginkgobioworks.com | inferred   | ✅ emailed 2026-05-22 |
+
+---
+
+## SOLASTA Bio
+
+Glasgow, Scotland. Peptide bioinsecticides sourced from natural organisms. $14M Series A led by FMC Ventures + Corteva. Direct parallel on insecticide side. General: info@solastabio.com · Email format: firstname@solastabio.com (56%)
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Shireen Davies | CEO & Co-Founder | — | shireen@solastabio.com | inferred |
+| Prof. Julian Dow | CSO & Co-Founder | — | julian@solastabio.com | inferred |
+
+---
+
+## Innatrix
+
+Research Triangle Park, NC. Peptide platform targeting potato late blight (InnalB), soybean cyst nematode (InnaNema), citrus greening (InnaHLB). First product launch targeted 2026. SOSV-backed. HQ: 919-228-8298 · Email format: First.Last@innatrix.com
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Jiarui Li | CEO | 919-228-8298 | jiarui.li@innatrix.com | confirmed |
+
+---
+
+## Genvor (OTCQB: GNVR)
+
+Publicly traded. AI-accelerated peptide discovery for ag + health/wellness. 9 US patents, 16 pending. Bayer LifeHub mentee (California). Email format unknown — use contact form at genvor.com
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Chad Pawlak | CEO | — | chad@genvor.com | inferred |
+| Dr. George Stavrides | EVP Business Development & Commercialization | — | george.stavrides@genvor.com | inferred |
+| Dr. Jesse Jaynes | Co-Founder & Board Member (R&D lead) | — | jesse@genvor.com | inferred |
+
+---
+
+## Plant Health Care (AIM: PHC)
+
+Raleigh, NC. Harpin protein + harpin-derived peptide platform — the pioneer in peptide-based crop protection. Wilbur-Ellis JDA (already in contacts). HQ: +1 919-926-1600
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Jeff Tweedy | CEO | 919-926-1600 | jtweedy@planthealthcare.com | inferred |
+
+---
+
+## Elemental Enzymes
+
+St. Louis, MO. Enzyme + peptide platform for plant disease protection and abiotic stress. Dedicated peptide discovery team. Backed by Paine Schwartz (ag PE).
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Dr. Brian Thompson | CEO & Co-Founder | — | bthompson@elementalenzymes.com | inferred |
+| Dr. Katie Thompson | COO & Co-Founder | — | kthompson@elementalenzymes.com | inferred |
+| Dr. Ashley Siegel | CSO & Co-Founder | — | asiegel@elementalenzymes.com | inferred |
+
+---
+
+## Peptobiotics
+
+Singapore. AMP platform for aquaculture and livestock — not row crops but closest AMP-for-ag company in Asia. $6.2M Series A (2024, led by Hatch Blue Revolution Fund). Lower priority for Agros unless pursuing Asia markets.
+
+| Name | Title | Phone | Email | Confidence |
+|---|---|---|---|---|
+| Jonathan Bester | CEO & Co-Founder | — | jbester@peptobiotics.com | confirmed |
+| Jhee Hong Koh | CTO & Co-Founder | — | jhkoh@peptobiotics.com | inferred |
