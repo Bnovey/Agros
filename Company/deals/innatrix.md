@@ -51,14 +51,16 @@ TBD — to be clarified in next meeting.
 
 ## Economics
 
-| Component | Status |
-|---|---|
-| Upfront / fee | Not discussed |
-| Per-campaign / per-candidate fee | Not discussed |
-| Milestone structure | Not discussed |
-| Royalties | Not discussed |
+See [[deal-structure]] for full tier framework. Innatrix-specific pricing:
 
-**Comparable deal:** Lavie Bio → Corteva: $5M upfront for AI-discovered candidates, pre-EPA. Realistic range at this stage: **$500K–$1.5M upfront** plus milestones, scaling with wet lab validation.
+| Tier | Trigger | Fee |
+|---|---|---|
+| Tier 1 — Initial batch | Delivery of 100 candidates | **$75K** |
+| Tier 2 — Field trial | Per candidate advancing to field trials | **$100K/candidate** |
+| Tier 3 — Registration | Per candidate submitted to EPA | **$250K/candidate** |
+| Tier 4 — Commercial | First commercial sale | **4% of net sales** |
+
+**Base scenario total (pre-royalty):** ~$725K (4 candidates advancing to field, 1 to registration)
 
 ---
 

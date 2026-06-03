@@ -54,14 +54,16 @@ This is a **candidate supply / pipeline access deal** — not a co-development o
 
 ## Economics
 
-| Component | Status |
-|---|---|
-| Upfront / fee | Not discussed |
-| Per-campaign / per-candidate fee | Not discussed |
-| Milestone structure | Not discussed |
-| Royalties | Not discussed |
+See [[deal-structure]] for full tier framework. Invaio-specific pricing:
 
-**Comparable deal:** Lavie Bio → Corteva: $5M upfront for AI-discovered candidates, pre-EPA, no wet lab data at time of signing. Our deal is earlier-stage — realistic range before wet lab data is **$500K–$1.5M upfront** plus milestones.
+| Tier | Trigger | Fee |
+|---|---|---|
+| Tier 1 — Initial batch | Delivery of 100 candidates | **$150K** |
+| Tier 2 — Field trial | Per candidate advancing to field trials | **$200K/candidate** |
+| Tier 3 — Registration | Per candidate submitted to EPA | **$400K/candidate** |
+| Tier 4 — Commercial | First commercial sale | **5% of net sales** |
+
+**Base scenario total (pre-royalty):** ~$1.55M (5 candidates advancing to field, 1 to registration)
 
 ---
 
