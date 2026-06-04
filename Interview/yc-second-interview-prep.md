@@ -143,12 +143,12 @@ Pharma comparison for context: ~10% of drug candidates that enter Phase 1 reach 
 
 ## Unit Economics (if asked)
 
-| Item | Cost |
-|---|---|
+| Item                                        | Cost        |
+| ------------------------------------------- | ----------- |
 | GPU compute per 100 candidates (Modal A100) | ~$500–2,000 |
-| Our cost to deliver a Tier 1 batch | <$2,000 |
-| Tier 1 fee (Invaio) | $150,000 |
-| Gross margin on Tier 1 | ~99% |
+| Our cost to deliver a Tier 1 batch          | <$2,000     |
+| Tier 1 fee (Invaio)                         | $150,000    |
+| Gross margin on Tier 1                      | ~99%        |
 
 **The honest framing:** Our COGS on candidate delivery is almost zero — compute only. The value we're charging for is the IP and the model, not the inference cost. That's a good business.
 
