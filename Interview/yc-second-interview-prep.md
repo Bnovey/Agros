@@ -64,6 +64,20 @@ Flagship Pioneering has $3B+ under management and has commercialized Moderna-sca
 | 3 — Registration | Per-candidate exclusive license to file an EPA registration for that sequence and sell in the licensed territory | We receive co-inventor credit on any patent claims that include our IG-identified binding residues. They own the resulting EPA registration. |
 | 4 — Commercial | Full commercial license for the registered sequence in the licensed territory | Royalties accrue on net sales. We retain rights to use the sequence in academic publications and grant non-competing licenses in other geographies or crop categories by mutual agreement. |
 
+**Why these numbers hold up under EV math**
+
+Each tier can be justified as risk-adjusted expected value. The logic: fee ≥ P(commercial success from this stage) × NPV(royalty stream).
+
+Anchor: a single commercial active at $20M/year net sales × 10-year product life × 5% royalty = **$10M total royalty stream per candidate**.
+
+| Tier | P(commercial from here) | Expected royalty value | Invaio fee | Fee as % of EV |
+|---|---|---|---|---|
+| 1 — Batch (100 candidates) | ~5–10% any winner in batch | $500K–$1M across batch | $150K | 15–30% |
+| 2 — Field trials | ~15–25% per candidate | $1.5–2.5M per candidate | $200K | 8–13% |
+| 3 — Registration | ~70–85% per candidate | $7–8.5M per candidate | $400K | 5–6% |
+
+At every tier, the milestone fee is well below expected value — we're charging for cash-now versus long-dated optionality, and the partner still bears all wet-lab and regulatory cost. Tier 3 is actually where the partner gets the best deal: paying $400K against $7M+ in expected royalties. If YC pushes on "why would they keep paying milestones as it succeeds" — that's the answer.
+
 **The key principle:** we are licensing sequences, not the platform. At no tier does any partner get access to BoltzGen weights, Boltz-2 fine-tuned checkpoints, IG analysis code, or the generative pipeline itself. That is the moat. Each licensing deal is a window into our output — not the factory.
 
 ### Deal Value (base scenario — memorize these)
