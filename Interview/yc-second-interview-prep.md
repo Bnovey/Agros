@@ -141,16 +141,48 @@ Pharma comparison for context: ~10% of drug candidates that enter Phase 1 reach 
 
 ---
 
-## Unit Economics (if asked)
+## Unit Economics — Costs (expect to be drilled on this)
 
-| Item                                        | Cost        |
-| ------------------------------------------- | ----------- |
-| GPU compute per 100 candidates (Modal A100) | ~$500–2,000 |
-| Our cost to deliver a Tier 1 batch          | <$2,000     |
-| Tier 1 fee (Invaio)                         | $150,000    |
-| Gross margin on Tier 1                      | ~99%        |
+### Monthly operating cost: ~$15K/month
 
-**The honest framing:** Our COGS on candidate delivery is almost zero — compute only. The value we're charging for is the IP and the model, not the inference cost. That's a good business.
+| Item | Monthly |
+|---|---|
+| Compute (Modal A100 — BoltzGen + Boltz-2 + IG) | $5,000 |
+| Lab space (shared bench, QB3 or equivalent) | $1,500 |
+| Reagents + consumables | $8,500 |
+| **Total** | **~$15,000/month** |
+
+### What $15K/month produces
+
+| Metric | Monthly |
+|---|---|
+| Candidates generated + computationally screened | ~10,000 |
+| Candidates validated in vitro (top subset) | ~500–1,000 |
+| Expected validated hits (20–30% hit rate) | ~100–300 |
+| Cost per validated hit | ~$50–150 |
+
+### How to explain it if they push
+
+> *"Around $15K a month — $5K in compute, $10K for lab space and reagents. Computationally we generate and score around 10,000 candidates a month using BoltzGen and Boltz-2. We run IG attribution on the top ranked candidates, then validate the best 500–1,000 in vitro ourselves. From those we expect 100–300 validated hits per month."*
+
+**If they ask why compute is $5K:**
+> BoltzGen generates sequences cheaply. The cost is Boltz-2 — it runs structure prediction and binding affinity scoring on each peptide-target complex, ~3–12 minutes per complex on an A100 at $2.78/hour. At 10,000 candidates batched efficiently, that's roughly $500–2,000. IG on the top candidates adds another $500–1,500. Total lands around $5K/month.
+
+**If they ask why lab is $10K:**
+> $1,500 for bench rental with equipment access. The rest is reagents — we run a simple fungal growth inhibition assay in 384-well format, ~$2 per candidate in consumables. At 500–1,000 candidates in vitro per month that's $1,000–2,000 in reagents. The remainder covers additional consumables, synthesis of top hits for secondary assays, and buffer.
+
+**If they ask why not just use a CRO:**
+> CRO pricing for in vitro antifungal assays runs $100–300 per compound — 50–150x our reagent cost. At 500 candidates/month that's $50–150K vs. our $1,000. The assays aren't complex — we run them ourselves.
+
+### Gross margin on partner deliveries
+
+| Item | Amount |
+|---|---|
+| Tier 1 fee (Invaio) | $150,000 |
+| Compute cost to generate 100 candidates | ~$50–200 |
+| **Gross margin** | **~99%** |
+
+Our COGS on candidate delivery is essentially zero — compute only. Partners pay for the IP and the model, not the inference cost.
 
 ---
 
