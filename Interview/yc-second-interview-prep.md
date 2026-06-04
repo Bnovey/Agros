@@ -38,6 +38,48 @@ Lead with this. It's real traction.
 | 3 — Registration | Per candidate submitted to EPA | $400K/candidate | $250K/candidate |
 | 4 — Commercial | First commercial sale | 5% net sales | 4% net sales |
 
+### Why These Numbers
+
+**Tier 1 — $150K (Invaio) / $75K (Innatrix)**
+Industry upfront for an early-stage agchem active with in vitro + in vivo data runs $500K–$3M. We're pricing below that range because we're delivering computational candidates — no wet lab validation yet. The discount reflects our risk position honestly, and it makes Tier 1 easy for them to say yes to. Innatrix is at 50% of Invaio: SOSV-backed versus Flagship-backed, earlier capital position, smaller risk budget. Pricing matches their respective ability to pay.
+
+**Tier 2 — $200K / $100K per candidate**
+A candidate advancing to field trials has survived in vitro screening — the probability of commercial success has jumped materially. At this point we're in early-development milestone territory. Standard agchem development milestones run $2–10M spread across multiple gates; $200K at field-trial entry is conservative, which is intentional at this stage of the relationship. It's also the number where you can point to a valuation argument: if a single pesticide active generates $20M/year at commercial scale, even a 1% probability of success at field trials makes $200K defensible math.
+
+**Tier 3 — $400K / $250K per candidate**
+EPA biopesticide registration submission is a major de-risking event — regulatory approval rate for candidates that reach submission is high, and the regulatory data package represents years of validation work. $400K at submission is still below a typical pharma IND-equivalent milestone, which reflects the smaller total market size in biopesticides. Innatrix's $250K reflects the same capital-position logic as Tier 1.
+
+**Tier 4 — 5% / 4% net sales royalties**
+Agchem royalty range is 3–8% of net sales (lower than pharma's 8–15% because agchem margins are thinner and deal leverage is lower for early-stage sellers). 5% for Invaio sits in the middle of that range — appropriate for a Flagship-backed company with strong commercial infrastructure. 4% for Innatrix is slightly below midpoint, reflecting their earlier stage and smaller commercial operation. Both are above the floor (3%), which we hold firm on: below 3% isn't worth the ongoing IP management cost.
+
+**Why Invaio pays more than Innatrix at every tier**
+Flagship Pioneering has $3B+ under management and has commercialized Moderna-scale products. Innatrix is SOSV-backed and earlier. Different capital positions, different risk tolerance, different ability to absorb milestone obligations. Tiering the two deals differently is standard practice — it's not a concession on value, it's matching price to buyer.
+
+**How IP is shared at each tier**
+
+| Tier | What they get | What we keep |
+|---|---|---|
+| 1 — Batch delivery | Non-exclusive license to synthesize and test the 100 delivered sequences in internal in vitro/in vivo programs | Full IP ownership of all sequences, the model, and IG analysis. They cannot sublicense or publish without consent. |
+| 2 — Field trials | Per-candidate exclusive license to advance that specific sequence through field trials and regulatory prep in a defined geography/crop scope | We retain rights to any derivative sequences we generate. They cannot run further generative campaigns on our behalf without a new contract. |
+| 3 — Registration | Per-candidate exclusive license to file an EPA registration for that sequence and sell in the licensed territory | We receive co-inventor credit on any patent claims that include our IG-identified binding residues. They own the resulting EPA registration. |
+| 4 — Commercial | Full commercial license for the registered sequence in the licensed territory | Royalties accrue on net sales. We retain rights to use the sequence in academic publications and grant non-competing licenses in other geographies or crop categories by mutual agreement. |
+
+**Why these numbers hold up under EV math**
+
+Each tier can be justified as risk-adjusted expected value. The logic: fee ≥ P(commercial success from this stage) × NPV(royalty stream).
+
+Anchor: a single commercial active at $20M/year net sales × 10-year product life × 5% royalty = **$10M total royalty stream per candidate**.
+
+| Tier | P(commercial from here) | Expected royalty value | Invaio fee | Fee as % of EV |
+|---|---|---|---|---|
+| 1 — Batch (100 candidates) | ~5–10% any winner in batch | $500K–$1M across batch | $150K | 15–30% |
+| 2 — Field trials | ~15–25% per candidate | $1.5–2.5M per candidate | $200K | 8–13% |
+| 3 — Registration | ~70–85% per candidate | $7–8.5M per candidate | $400K | 5–6% |
+
+At every tier, the milestone fee is well below expected value — we're charging for cash-now versus long-dated optionality, and the partner still bears all wet-lab and regulatory cost. Tier 3 is actually where the partner gets the best deal: paying $400K against $7M+ in expected royalties. If YC pushes on "why would they keep paying milestones as it succeeds" — that's the answer.
+
+**The key principle:** we are licensing sequences, not the platform. At no tier does any partner get access to BoltzGen weights, Boltz-2 fine-tuned checkpoints, IG analysis code, or the generative pipeline itself. That is the moat. Each licensing deal is a window into our output — not the factory.
+
 ### Deal Value (base scenario — memorize these)
 
 | Partner | Scenario | Total pre-royalty |
