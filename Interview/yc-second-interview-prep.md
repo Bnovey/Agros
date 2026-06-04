@@ -66,17 +66,17 @@ Flagship Pioneering has $3B+ under management and has commercialized Moderna-sca
 
 **Why these numbers hold up under EV math**
 
-Each tier can be justified as risk-adjusted expected value. The logic: fee ≥ P(commercial success from this stage) × NPV(royalty stream).
+Each tier can be justified as risk-adjusted expected value. The logic: fee ≤ P(commercial success from this stage) × NPV(product value to partner).
 
-Anchor: a single commercial active at $20M/year net sales × 10-year product life × 5% royalty = **$10M total royalty stream per candidate**.
+Anchor: a $20M/year biopesticide at ~50% gross margin generates ~$10M/year in operating contribution. Discounted at 15% over a 10-year product life, minus ~$10M in development costs (field trials, registration, scale-up) = **~$50M product NPV to the partner**.
 
-| Tier | P(commercial from here) | Expected royalty value | Invaio fee | Fee as % of EV |
+| Tier | P(commercial from here) | Expected product value to partner | Invaio fee | Fee as % of partner EV |
 |---|---|---|---|---|
-| 1 — Batch (100 candidates) | ~5–10% any winner in batch | $500K–$1M across batch | $150K | 15–30% |
-| 2 — Field trials | ~15–25% per candidate | $1.5–2.5M per candidate | $200K | 8–13% |
-| 3 — Registration | ~70–85% per candidate | $7–8.5M per candidate | $400K | 5–6% |
+| 1 — Batch (100 candidates) | ~5–10% any winner in batch | $2.5–5M across batch | $150K | 3–6% |
+| 2 — Field trials | ~15–25% per candidate | $7.5–12.5M per candidate | $200K | 1.6–2.7% |
+| 3 — Registration | ~70–85% per candidate | $35–42M per candidate | $400K | ~1% |
 
-At every tier, the milestone fee is well below expected value — we're charging for cash-now versus long-dated optionality, and the partner still bears all wet-lab and regulatory cost. Tier 3 is actually where the partner gets the best deal: paying $400K against $7M+ in expected royalties. If YC pushes on "why would they keep paying milestones as it succeeds" — that's the answer.
+At every tier, the milestone fee is a small fraction of the value the partner captures if the candidate succeeds — and they still bear all wet-lab and regulatory cost. Tier 3 is the clearest case: paying $400K against ~$40M in expected product value. If YC pushes on "why would they keep paying milestones as it succeeds" — the answer is that each milestone is still a great deal for them.
 
 **The key principle:** we are licensing sequences, not the platform. At no tier does any partner get access to BoltzGen weights, Boltz-2 fine-tuned checkpoints, IG analysis code, or the generative pipeline itself. That is the moat. Each licensing deal is a window into our output — not the factory.
 
