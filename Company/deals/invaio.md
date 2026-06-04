@@ -28,8 +28,28 @@ Backed by Flagship Pioneering — the same firm behind Moderna. Series-stage com
 |---|---|
 | Cold outreach (Agros initiated) | 2026-05-22 |
 | Initial meeting | ~2026-05-20 (before Diana email) |
-| NDA signed | 2026-06 |
+| NDA signed (Agrōs side) | 2026-06-01 |
+| NDA countersigned (Invaio) | **PENDING — not confirmed on our copy** |
 | Next meeting | TBD — needs to be scheduled |
+
+## NDA Terms (effective 2026-06-01)
+
+- **Type:** Mutual in practice, but Invaio-drafted and slightly asymmetric (see flags below)
+- **Governing law:** Delaware; disputes in Wilmington courts
+- **Active term:** 1 year (expires 2027-06-01); either party can terminate on 30 days written notice
+- **Confidentiality survival:** 5 years after term expiration (until 2032-06-01)
+- **Subject matter clause:** Left as placeholder — "[Insert the subject matter of discussions]" was never filled in
+- **Assignment:** Invaio can assign freely to affiliates or on change of control; Agrōs requires Invaio's written consent to assign
+- **Copies:** Permitted only as needed for the Purpose and backup; no separate approval required
+- **Agrōs listed as:** "unincorporated joint venture" — confirm this is accurate for our current corporate status
+- **Section 20 (retroactive ratification):** In brackets — may be optional; confirm with Invaio whether this is included
+
+### Flags
+
+1. **Invaio may not have countersigned yet** — our copy shows blank signature block on their side. Confirm receipt of a fully executed copy.
+2. **Shorter survival than Innatrix** — 5 years vs. 10 years. Lower protection for us.
+3. **Asymmetric assignment** — Invaio can reassign (e.g., if acquired by Syngenta); we cannot.
+4. **Subject matter blank** — weakens enforceability if there's ever a dispute about what the NDA covers.
 
 ---
 

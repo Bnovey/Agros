@@ -28,8 +28,18 @@ First product launch targeted 2026. Pre-EPA registration. Flagged by Pam Marrone
 
 | Stage | Date |
 |---|---|
-| NDA signed | 2026-06 |
+| NDA signed | 2026-05-28 |
 | Next meeting | TBD — needs to be scheduled |
+
+## NDA Terms (Mutual NDA, signed 2026-05-28)
+
+- **Type:** Mutual — both parties bound equally
+- **Governing law:** North Carolina; disputes in Wake County courts
+- **Active term:** 2 years from effective date (expires 2028-05-28)
+- **Confidentiality survival:** 10 years from effective date (until 2036-05-28)
+- **Copies:** Require prior written approval from the other party
+- **Assignment:** Not addressed (no explicit assignment clause)
+- **Signed by:** Bowman Novey + Frederick Dehmel (CEO/CTO, Agrōs); Jiarui Li (CEO, Innatrix) — fully executed
 
 ---
 
