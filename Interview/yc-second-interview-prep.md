@@ -78,6 +78,24 @@ Anchor: a $20M/year biopesticide at ~50% gross margin generates ~$10M/year in op
 
 At every tier, the milestone fee is a small fraction of the value the partner captures if the candidate succeeds — and they still bear all wet-lab and regulatory cost. Tier 3 is the clearest case: paying $400K against ~$40M in expected product value. If YC pushes on "why would they keep paying milestones as it succeeds" — the answer is that each milestone is still a great deal for them.
 
+**Where the P values come from**
+
+These are standard agchem/biopesticide attrition rates, not invented numbers. The pipeline looks like:
+
+```
+100 computational candidates
+  → ~20–30 in vitro hits       (20–30% hit rate for de novo AMPs; our IG-guided approach targets the high end)
+    → ~5–10 advance to field   (20–40% of in vitro hits survive greenhouse/field screening)
+      → ~2–4 reach registration (30–50% of field candidates generate sufficient efficacy data)
+        → ~1–3 get approved    (70–85% EPA approval rate for biopesticide submissions — much higher than conventional)
+```
+
+- **Tier 1 (5–10% any winner from batch):** multiply through the full chain per candidate (~1–2%), then ask P(at least one winner across 100 candidates). Even at 1.5% per candidate, P(≥1 winner) ≈ 78%.
+- **Tier 2 (15–25% per candidate at field trials):** candidate has survived in vitro — attrition from here is field screening + registration only. Roughly 30–40% reach registration × 75–85% approval ≈ 22–34%.
+- **Tier 3 (70–85% per candidate at registration):** EPA biopesticide approval rate once a full dossier is filed. Biopesticides face a lower evidentiary bar than conventional pesticides — the agency actively supports the category. 70–85% is well-documented.
+
+Pharma comparison for context: ~10% of drug candidates that enter Phase 1 reach approval. Our Tier 3 P value is 7–8× higher because biopesticide regulatory risk is much lower than pharma.
+
 **The key principle:** we are licensing sequences, not the platform. At no tier does any partner get access to BoltzGen weights, Boltz-2 fine-tuned checkpoints, IG analysis code, or the generative pipeline itself. That is the moat. Each licensing deal is a window into our output — not the factory.
 
 ### Deal Value (base scenario — memorize these)
