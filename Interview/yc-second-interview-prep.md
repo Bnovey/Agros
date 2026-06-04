@@ -96,13 +96,13 @@ Lead with this. It's real traction.
 
 ## Revenue Timeline
 
-| Milestone | When | Cash event |
-|---|---|---|
-| Tier 1 delivery (Invaio) | As soon as term sheet signed | $150K |
-| Tier 1 delivery (Innatrix) | As soon as term sheet signed | $75K |
-| Tier 2 — first candidates advance | 6–18 months post-delivery | $200K/candidate (Invaio) |
-| Series A | 12–18 months post-YC | $5–10M |
-| First royalties | 5–8 years post-delivery | Ongoing |
+| Milestone                         | When                         | Cash event               |
+| --------------------------------- | ---------------------------- | ------------------------ |
+| Tier 1 delivery (Invaio)          | As soon as term sheet signed | $150K                    |
+| Tier 1 delivery (Innatrix)        | As soon as term sheet signed | $75K                     |
+| Tier 2 — first candidates advance | 6–18 months post-delivery    | $200K/candidate (Invaio) |
+| Series A                          | 12–18 months post-YC         | $5–10M                   |
+| First royalties                   | 5–8 years post-delivery      | Ongoing                  |
 
 **YC answer to "when's first revenue?":** *"As soon as we close the Tier 1 term sheets — which is the next step with both partners. That could be within weeks of finishing YC onboarding."*
 
