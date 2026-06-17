@@ -1,6 +1,6 @@
 # Agrōs — AI-Designed Peptide Biopesticides
 
-**Computationally designed peptide candidates *de novo**
+**Computationally designed peptide candidates *de novo* **
 
 June 2026
 
@@ -28,7 +28,7 @@ We don't replace the wet lab. We feed it a larger, more diverse, pre-prioritized
 
 **4. Iteration.** Attribution-guided redesign refines each cycle — constraining the residues that matter and re-exploring the rest. Wet-lab results feed back in, so the platform improves with every batch.
 
-**Result:** years of discovery compressed into weeks, with a transparent, defensible rationale for each lead.
+**In Other Words:** We are iteratively creating the scaffold, meaningfully constraining the search space. Effectively pushing protein generation models towards better results. 
 
 ---
 
