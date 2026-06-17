@@ -8,11 +8,11 @@ June 2026
 
 ## The problem
 
-Peptide biopesticide discovery is bottlenecked by screening. Finding candidates that bind a given target the traditional way — biological screening of large libraries — is slow, expensive, and limited to the diversity of what already exists in nature. Every promising lead takes months of wet-lab iteration to surface. Meanwhile, growers and regulators are pushing hard to replace synthetic chemical pesticides, and the supply of new biological actives isn't keeping pace.
+In silico protein design in agriculture is constrained by its reliance on scaffolds. Today's approaches start from existing protein backbones and graft binding motifs onto them — it makes the computation tractable, but it locks the search to a narrow neighborhood of known structures. The candidates that come out look a lot like the candidates that went in, so the field keeps rediscovering variations on the same molecules instead of finding genuinely new ones. With growers and regulators pushing hard to replace synthetic chemical pesticides, the supply of truly novel biological actives can't be unlocked from a scaffold-bound search space.
 
 ## What we do
 
-Agrōs designs **novel peptide candidates from scratch**, computationally, against any target you specify. We combine state-of-the-art protein generation and structure models with a binding-affinity scoring stack to explore design space far beyond natural libraries — then hand over a ranked shortlist ready for synthesis and assay.
+Agrōs designs **novel peptide candidates from scratch** — *de novo*, not grafted onto existing scaffolds. We combine state-of-the-art protein generation and structure models with a binding-affinity scoring stack to explore the full design space against any target you specify, then hand over a ranked shortlist ready for synthesis and assay.
 
 We don't replace the wet lab. We feed it a larger, more diverse, pre-prioritized candidate pool — and we do it in weeks.
 
