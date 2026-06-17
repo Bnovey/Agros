@@ -24,7 +24,7 @@ We don't replace the wet lab. We feed it a larger, more diverse, pre-prioritized
 
 **2. Multi-model scoring.** Every candidate is scored and filtered for binding affinity, solubility, and stability. Affinity is the primary objective, validated across multiple independent models — from deep-learning predictors to physics-based docking — so we're not betting on a single model's blind spots. We rank and filter thousands down to the most promising leads.
 
-**3. Design rationale.** For the top candidates we extract **per-residue attribution maps** — showing which amino acid positions the models identify as critical for binding. This gives a residue-level explanation of *why* a candidate is predicted to work, not just a score. It's directly useful for optimization, IP strategy, and regulatory filings.
+**3. Design rationale.** For the top candidates we extract **per-residue attribution maps** — showing which amino acid positions the models identify as critical for binding. This gives a residue-level explanation of *why* a candidate is predicted to work, not just a score. Affinitly prediction models at their core 
 
 **4. Iteration.** Attribution-guided redesign refines each cycle — constraining the residues that matter and re-exploring the rest. Wet-lab results feed back in, so the platform improves with every batch.
 
