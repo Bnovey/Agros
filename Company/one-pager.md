@@ -1,6 +1,6 @@
 # Agrōs — AI-Designed Peptide Biopesticides
 
-**Computationally designed peptide candidates *de novo* **
+*De Novo* protein design for crop protection
 
 June 2026
 
@@ -12,7 +12,7 @@ June 2026
 
 ## What we do
 
-Agrōs designs novel peptide candidates from scratch — *de novo*, not grafted onto existing scaffolds. We combine state-of-the-art protein generation and structure models with a binding-affinity scoring stack to explore the full design space against any target you specify, then hand over a ranked shortlist ready for synthesis and assay. 
+Agrōs designs novel peptide candidates from scratch — *de novo*, not grafted from existing scaffolds. We combine state-of-the-art protein generation and structure models with a binding-affinity scoring stack to explore the full design space against any target you specify, then hand over a ranked shortlist ready for synthesis and assay. 
 
 We don't replace the wet lab. We feed it a larger, more diverse, pre-prioritized candidate pools. 
 
