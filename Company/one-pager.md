@@ -44,16 +44,6 @@ If you have a validated target and wet-lab capacity, we accelerate the front of 
 
 ---
 
-## How we work together
-
-We deliver batches of **~100 ranked candidates** for a specified target — sequences plus per-residue attribution reports and binding-affinity predictions. The partner synthesizes and tests. Rights to advance leads through field trials and registration are licensed at each stage, with per-target exclusivity on each batch. Agrōs retains the underlying platform IP; candidates are licensed to the partner.
-
-*Full tier and pricing framework available under NDA.*
-
----
-
-## About Agrōs
-
-AI-designed peptide biopesticides, built to replace synthetic chemical pesticides. Our mission is a lab-in-the-loop discovery flywheel where every assay result makes the next batch better — discovering new biopesticides in weeks instead of years.
-
-**Contact:** Bowman Novey · bowmanynovey@gmail.com · Frederick Dehmel (CEO/CTO)
+**Contact:** 
+Bowman Novey (CEO) - bnovey@berkeley.edu 
+Frederick Dehmel (CTO) - dehmelf@berkeley.edu
