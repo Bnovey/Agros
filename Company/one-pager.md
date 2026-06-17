@@ -8,7 +8,7 @@ June 2026
 
 ## The problem we address
 
-*In silico* protein design in agriculture is constrained by its reliance on scaffolds. Today's approaches start from existing protein backbones and graft binding motifs onto them — it makes the computation tractable, but it locks the search to a narrow neighborhood of known structures. Although these scaffolds are inspired by nature, this greatly reduces the search space of structures that can bind the target receptor. The result is incremental: candidates that resemble what already exists, rather than the genuinely novel binders a target may demand. For agriculture — where the goal is to replace entrenched chemical pesticides with new biological actives — that constraint is the difference between rediscovering known molecules and discovering the ones nobody has found yet.
+*In silico* protein design in agriculture is constrained by its reliance on scaffolds. Today's approaches start from existing protein backbones and build binding motifs onto them — it makes the computation tractable, but it locks the search to a narrow neighborhood of known structures. Although these scaffolds are inspired by nature, this greatly reduces the search space of structures that can bind the target receptor. The result is incremental: candidates that resemble what already exists, rather than the genuinely novel binders a target may demand. For agriculture — where the goal is to replace entrenched chemical pesticides with new biological actives — that constraint is the difference between rediscovering known molecules and discovering the ones nobody has found yet.
 
 ## What we do
 
